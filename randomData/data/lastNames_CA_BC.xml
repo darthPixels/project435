@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: lastNames_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region last names by origin.
+    • Feeds generateRandomData.js to fill <lastName> in workers.xml,
+      employers.xml, etc.
+  Generator:
+    • Name generator samples one <LastName> matching chosen ethnicity.
+  Element:
+    • <LastName origin="English|French|Chinese|German|Italian|Indian|Ukrainian|Arab|Portuguese|Indigenous">
+        SurnameValue
+      </LastName>
+-->
+<LastNames>
+  <!-- English last names -->
+  <LastName origin="English">Smith</LastName>
+  <LastName origin="English">Johnson</LastName>
+  <LastName origin="English">Brown</LastName>
+  <LastName origin="English">Taylor</LastName>
+  <LastName origin="English">Wilson</LastName>
+  <LastName origin="English">Moore</LastName>
+  <LastName origin="English">Anderson</LastName>
+  <LastName origin="English">Thomas</LastName>
+  <LastName origin="English">Jackson</LastName>
+  <LastName origin="English">White</LastName>
+  <LastName origin="English">Harris</LastName>
+  <LastName origin="English">Martin</LastName>
+  <LastName origin="English">Thompson</LastName>
+  <LastName origin="English">Garrett</LastName>
+  <LastName origin="English">Clark</LastName>
+  <LastName origin="English">Evans</LastName>
+  <LastName origin="English">Hall</LastName>
+  <LastName origin="English">Robinson</LastName>
+  <LastName origin="English">Young</LastName>
+  <LastName origin="English">King</LastName>
+  <LastName origin="English">Wright</LastName>
+  <LastName origin="English">Scott</LastName>
+  <LastName origin="English">Green</LastName>
+  <LastName origin="English">Adams</LastName>
+  <LastName origin="English">Baker</LastName>
+  <LastName origin="English">Campbell</LastName>
+  <LastName origin="English">Mitchell</LastName>
+  <LastName origin="English">Perez</LastName>
+  <LastName origin="English">Turner</LastName>
+  <LastName origin="English">Phillips</LastName>
+
+  <!-- French last names -->
+  <LastName origin="French">Lévesque</LastName>
+  <LastName origin="French">Gagnon</LastName>
+  <LastName origin="French">Roy</LastName>
+  <LastName origin="French">Bouchard</LastName>
+  <LastName origin="French">Tremblay</LastName>
+  <LastName origin="French">Gauthier</LastName>
+  <LastName origin="French">Morin</LastName>
+  <LastName origin="French">Lavoie</LastName>
+  <LastName origin="French">Fortin</LastName>
+  <LastName origin="French">Cloutier</LastName>
+  <LastName origin="French">Simard</LastName>
+  <LastName origin="French">Gagné</LastName>
+  <LastName origin="French">Côté</LastName>
+  <LastName origin="French">Poirier</LastName>
+  <LastName origin="French">Boucher</LastName>
+  <LastName origin="French">Leduc</LastName>
+  <LastName origin="French">Lemieux</LastName>
+  <LastName origin="French">Paquette</LastName>
+  <LastName origin="French">Girard</LastName>
+  <LastName origin="French">Caron</LastName>
+  <LastName origin="French">Lalonde</LastName>
+  <LastName origin="French">Beaudoin</LastName>
+  <LastName origin="French">Charron</LastName>
+  <LastName origin="French">Pelletier</LastName>
+  <LastName origin="French">Benoît</LastName>
+
+  <!-- Chinese last names -->
+  <LastName origin="Chinese">Wong</LastName>
+  <LastName origin="Chinese">Chan</LastName>
+  <LastName origin="Chinese">Lee</LastName>
+  <LastName origin="Chinese">Li</LastName>
+  <LastName origin="Chinese">Zhang</LastName>
+  <LastName origin="Chinese">Liu</LastName>
+  <LastName origin="Chinese">Chen</LastName>
+  <LastName origin="Chinese">Yang</LastName>
+  <LastName origin="Chinese">Wu</LastName>
+  <LastName origin="Chinese">Zhao</LastName>
+
+  <!-- German last names -->
+  <LastName origin="German">Müller</LastName>
+  <LastName origin="German">Schmidt</LastName>
+  <LastName origin="German">Schneider</LastName>
+  <LastName origin="German">Fischer</LastName>
+  <LastName origin="German">Weber</LastName>
+  <LastName origin="German">Meyer</LastName>
+  <LastName origin="German">Wagner</LastName>
+
+  <!-- Italian last names -->
+  <LastName origin="Italian">Russo</LastName>
+  <LastName origin="Italian">Rossi</LastName>
+  <LastName origin="Italian">Ferrari</LastName>
+  <LastName origin="Italian">Esposito</LastName>
+  <LastName origin="Italian">Bianchi</LastName>
+
+  <!-- Indian last names -->
+  <LastName origin="Indian">Patel</LastName>
+  <LastName origin="Indian">Singh</LastName>
+  <LastName origin="Indian">Kumar</LastName>
+  <LastName origin="Indian">Sharma</LastName>
+  <LastName origin="Indian">Gupta</LastName>
+
+  <!-- Ukrainian last names -->
+  <LastName origin="Ukrainian">Shevchenko</LastName>
+  <LastName origin="Ukrainian">Kovalenko</LastName>
+  <LastName origin="Ukrainian">Melnyk</LastName>
+  <LastName origin="Ukrainian">Boyko</LastName>
+  <LastName origin="Ukrainian">Kravchenko</LastName>
+
+  <!-- Arab last names -->
+  <LastName origin="Arab">Haddad</LastName>
+  <LastName origin="Arab">Nassar</LastName>
+  <LastName origin="Arab">Abdallah</LastName>
+  <LastName origin="Arab">Khalil</LastName>
+
+  <!-- Portuguese last names -->
+  <LastName origin="Portuguese">Silva</LastName>
+  <LastName origin="Portuguese">Santos</LastName>
+  <LastName origin="Portuguese">Ferreira</LastName>
+
+  <!-- Indigenous last names -->
+  <LastName origin="Indigenous">Whitefeather</LastName>
+  <LastName origin="Indigenous">Blackhawk</LastName>
+  <LastName origin="Indigenous">Runningbear</LastName>
+  <LastName origin="Indigenous">Redcloud</LastName>
+  <LastName origin="Indigenous">Twofeathers</LastName>
+  <LastName origin="Indigenous">Ironhawk</LastName>
+</LastNames>

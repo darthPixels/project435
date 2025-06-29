@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: companies_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC-region companies aligned to incident contexts.
+    • Feeds generateRandomData.js to fill <companyName> in workers.xml, employers.xml, etc., matching realistic sectors.
+  Element:
+    • <Company id="Cxxxx" city="CityName">Company Name</Company>
+-->
+<Companies>
+  <!-- Construction (20) -->
+  <Company id="C0001" city="Vancouver">Cascadia Construction Ltd.</Company>
+  <Company id="C0002" city="Surrey">Fraser Valley Builders</Company>
+  <Company id="C0003" city="Burnaby">Metro Roofing Services</Company>
+  <Company id="C0004" city="Richmond">Pacific Deck & Railing Inc.</Company>
+  <Company id="C0005" city="Coquitlam">Maple Leaf Scaffolding</Company>
+  <Company id="C0006" city="Abbotsford">Valley Framing & Drywall</Company>
+  <Company id="C0007" city="Langley">Urban Steel Fabricators</Company>
+  <Company id="C0008" city="Chilliwack">Everest Excavation</Company>
+  <Company id="C0009" city="Delta">Harbour Bridge Constructors</Company>
+  <Company id="C0010" city="New Westminster">Gateway Concrete Works</Company>
+  <Company id="C0011" city="Victoria">Island Home Renovations</Company>
+  <Company id="C0012" city="Kamloops">Interior Framing Ltd.</Company>
+  <Company id="C0013" city="Prince George">Northern Roofing & Siding</Company>
+  <Company id="C0014" city="Kelowna">Okanagan Deck Builders</Company>
+  <Company id="C0015" city="Nanaimo">Coastal Drywall Services</Company>
+  <Company id="C0016" city="Port Alberni">West Coast Carpenters</Company>
+  <Company id="C0017" city="Courtenay">Comox Valley Concrete</Company>
+  <Company id="C0018" city="Kamloops">Thompson Valley Crane Service</Company>
+  <Company id="C0019" city="Richmond">Delta Bracing & Shoring</Company>
+  <Company id="C0020" city="Vancouver">Skyline Erectors</Company>
+
+  <!-- Forestry & Logging (15) -->
+  <Company id="C0021" city="Prince George">BC Timber Mills</Company>
+  <Company id="C0022" city="Burns Lake">Fraser Forest Products</Company>
+  <Company id="C0023" city="Fort St. John">Northern Logging Company</Company>
+  <Company id="C0024" city="Smithers">Bulkley Valley Sawmill</Company>
+  <Company id="C0025" city="Quesnel">Cariboo Lumber Co.</Company>
+  <Company id="C0026" city="Port Alberni">Island Logging & Transport</Company>
+  <Company id="C0027" city="Cranbrook">Kootenay Timber Works</Company>
+  <Company id="C0028" city="Merritt">Thompson Logging Services</Company>
+  <Company id="C0029" city="Terrace">Kitimat Timber Exports</Company>
+  <Company id="C0030" city="Williams Lake">Chilcotin Logging Ltd.</Company>
+  <Company id="C0031" city="Powell River">Coastal Tree Harvesting</Company>
+  <Company id="C0032" city="Campbell River">Island Forest Management</Company>
+  <Company id="C0033" city="Kamloops">Thompson Valley Woodlands</Company>
+  <Company id="C0034" city="Chetwynd">Peace River Lumber</Company>
+  <Company id="C0035" city="Mackenzie">Fraser Lake Sawmill</Company>
+
+  <!-- Manufacturing & Metal Fabrication (15) -->
+  <Company id="C0036" city="Vancouver">Pacific Metalworks</Company>
+  <Company id="C0037" city="Surrey">SteelTech Fabrication</Company>
+  <Company id="C0038" city="Burnaby">Precision CNC Machining</Company>
+  <Company id="C0039" city="Richmond">Delta Sheet Metal Works</Company>
+  <Company id="C0040" city="Coquitlam">EverGreen Plastics</Company>
+  <Company id="C0041" city="Abbotsford">Valley Wood Products Ltd.</Company>
+  <Company id="C0042" city="Kamloops">Interior Metal Pressings</Company>
+  <Company id="C0043" city="Vancouver">West Coast Foundry</Company>
+  <Company id="C0044" city="Surrey">Aurora Weld Solutions</Company>
+  <Company id="C0045" city="Victoria">Island Gear & Bearing</Company>
+  <Company id="C0046" city="Nanaimo">Coastal Aluminum Co.</Company>
+  <Company id="C0047" city="Prince George">Northern Valve & Pump</Company>
+  <Company id="C0048" city="Cranbrook">Kootenay Casting Works</Company>
+  <Company id="C0049" city="Delta">Harbour CNC Routering</Company>
+  <Company id="C0050" city="Kamloops">Thompson Valley Tooling</Company>
+
+  <!-- Oil, Gas & Mining (10) -->
+  <Company id="C0051" city="Fort St. John">Northern Energy Drilling</Company>
+  <Company id="C0052" city="Prince George">Fraser Basin Mining Co.</Company>
+  <Company id="C0053" city="Kitimat">Coastal Gas Processing</Company>
+  <Company id="C0054" city="Cranbrook">Interior Gold Explorers</Company>
+  <Company id="C0055" city="Terrace">Skeena Zinc Operations</Company>
+  <Company id="C0056" city="Merritt">Thompson Coal & Minerals</Company>
+  <Company id="C0057" city="Prince Rupert">Oceanic Petroleum Services</Company>
+  <Company id="C0058" city="Chetwynd">Peace River Oilfield Services</Company>
+  <Company id="C0059" city="Williams Lake">Cariboo Drilling</Company>
+  <Company id="C0060" city="Kitimat">Coastal Marine Logistics</Company>
+
+  <!-- Transportation & Logistics (10) -->
+  <Company id="C0061" city="Richmond">Harbour Air Cargo</Company>
+  <Company id="C0062" city="Abbotsford">Valley Freight Movers</Company>
+  <Company id="C0063" city="Vancouver">Pacific Truck Lines</Company>
+  <Company id="C0064" city="Prince George">Northern Rail Transport</Company>
+  <Company id="C0065" city="Victoria">Island Delivery Services</Company>
+  <Company id="C0066" city="Kelowna">Okanagan Courier Co.</Company>
+  <Company id="C0067" city="Surrey">Fraser Valley Logistics</Company>
+  <Company id="C0068" city="Kamloops">Thompson Charter Transport</Company>
+  <Company id="C0069" city="Nanaimo">Coastal Ferries Freight</Company>
+  <Company id="C0070" city="Delta">South Delta Warehouse & Distribution</Company>
+
+  <!-- Food Processing & Agriculture (10) -->
+  <Company id="C0071" city="Abbotsford">Fraser Valley Foods</Company>
+  <Company id="C0072" city="Chilliwack">Valley Mushroom Farms</Company>
+  <Company id="C0073" city="Kelowna">Okanagan Fruit Packers</Company>
+  <Company id="C0074" city="Courtenay">Island Dairy Products</Company>
+  <Company id="C0075" city="Campbell River">Salish Sea Aquaculture</Company>
+  <Company id="C0076" city="Victoria">Capital Grain Milling</Company>
+  <Company id="C0077" city="Prince George">Northern Grain Elevators</Company>
+  <Company id="C0078" city="Cranbrook">Kootenay Cattle Feeders</Company>
+  <Company id="C0079" city="Powell River">Coastal Salmon Processing</Company>
+  <Company id="C0080" city="Mission">Valley Bakeries Ltd.</Company>
+
+  <!-- Waste Management & Recycling (5) -->
+  <Company id="C0081" city="Delta">Harbour Bay Waste Solutions</Company>
+  <Company id="C0082" city="Vancouver">Pacific Recycling Services</Company>
+  <Company id="C0083" city="Surrey">Fraser Valley Compactors</Company>
+  <Company id="C0084" city="Kamloops">Thompson Landfill Management</Company>
+  <Company id="C0085" city="Victoria">Island Composting Co.</Company>
+
+  <!-- Industrial Services & Maintenance (5) -->
+  <Company id="C0086" city="Vancouver">ProClean Industrial Services</Company>
+  <Company id="C0087" city="Surrey">SafeVault Access & Maintenance</Company>
+  <Company id="C0088" city="Kelowna">Okanagan Mechanical Repairs</Company>
+  <Company id="C0089" city="Prince George">Northern Equipment Rentals</Company>
+  <Company id="C0090" city="Victoria">Island Pressure Washing</Company>
+
+  <!-- Healthcare & Emergency Response (5) -->
+  <Company id="C0091" city="Victoria">Capital City Ambulance</Company>
+  <Company id="C0092" city="Vancouver">Vancouver Industrial First Aid</Company>
+  <Company id="C0093" city="Surrey">Fraser Emergency Services</Company>
+  <Company id="C0094" city="Prince George">Northern Health & Rescue</Company>
+  <Company id="C0095" city="Kamloops">Thompson First Response</Company>
+
+  <!-- Public Utilities & Infrastructure (5) -->
+  <Company id="C0096" city="Vancouver">BC Hydro Maintenance</Company>
+  <Company id="C0097" city="Victoria">Capital Waterworks</Company>
+  <Company id="C0098" city="Richmond">Harbourside Pipeline Services</Company>
+  <Company id="C0099" city="Kelowna">Okanagan Bridge & Roadworks</Company>
+  <Company id="C0100" city="Surrey">Fraser Valley Signal Systems</Company>
+</Companies>

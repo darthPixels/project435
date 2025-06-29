@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mappings>
+<!-- Central fieldmapping table for all fields necessary                                                                                                                       -->
+<!-- Usually the PDF fieldnames are given - generate a template with generateFieldmapping.js                                                                                   -->
+<!-- If there's no equivalent, ommit line or leave out dataFiles, etc.                                                                                                         -->
+<!-- Table is sorted by PDF field sequence (top to bottom, left to right)																									   -->
+<!--																	                                                                                                       -->
+<!--       PDF field name on form                          xml data name for output                         type                   option         value for option             -->
+  <Mapping pdfField="F8 Form"                              xmlPath="P2D_FormType8"                          type="radiobutton"     option="1"     value="1"                     />
+  <Mapping pdfField="F11 Form"                             xmlPath="P2D_FormType11"                         type="radiobutton"     option="0"     value="0"                     />
+  <Mapping pdfField="Date Of Service YYYY"                 xmlPath="Claim_DateOfService"                    type="text"                                                         />
+  <Mapping pdfField="Date Of Service MM"                   xmlPath="Claim_DateOfService"                    type="text"                                                         />
+  <Mapping pdfField="Date Of Service DD"                   xmlPath="Claim_DateOfService"                    type="text"                                                         />
+  <Mapping pdfField="Date Of Birth YYYY"                   xmlPath="Wrkr_DateOfBirth"                       type="text"                                                         />
+  <Mapping pdfField="Date Of Birth MM"                     xmlPath="Wrkr_DateOfBirth"                       type="text"                                                         />
+  <Mapping pdfField="Date Of Birth DD"                     xmlPath="Wrkr_DateOfBirth"                       type="text"                                                         />
+  <Mapping pdfField="Claim Number"                         xmlPath="Claim_Number"                           type="text"                                                         />
+  <Mapping pdfField="Employers Name"                       xmlPath="Emp_EmployerAccountName"                type="text"                                                         />
+  <Mapping pdfField="Worker Last Name"                     xmlPath="Wrkr_LastName"                          type="text"                                                         />
+  <Mapping pdfField="Employer Area Code"                   xmlPath="Emp_PhoneAreaCode"                      type="text"                                                         />
+  <Mapping pdfField="Employer Prefix"                      xmlPath="Emp_PhonePrefix"                        type="text"                                                         />
+  <Mapping pdfField="Employer Phone Number"                xmlPath="Emp_PhoneNumber"                        type="text"                                                         />
+  <Mapping pdfField="Worker First Name"                    xmlPath="Wrkr_FirstName"                         type="text"                                                         />
+  <Mapping pdfField="Worker Middle Initial"                xmlPath="Wrkr_MiddleInitials"                    type="text"                                                         />
+  <Mapping pdfField="Worker Gender"                        xmlPath="Wrkr_Gender"                            type="text"                                                         />
+  <Mapping pdfField="Employer Address 1"                   xmlPath="Emp_AddressLine1"                       type="text"                                                         />
+  <Mapping pdfField="Worker Address 1"                     xmlPath="Wrkr_AddressLine1"                      type="text"                                                         />
+  <Mapping pdfField="Employer Address 2"                   xmlPath="Emp_AddressLine2"                       type="text"                                                         />
+  <Mapping pdfField="Worker Address 2"                     xmlPath="Wrkr_AddressLine2"                      type="text"                                                         />
+  <Mapping pdfField="Date Of Injury YYYY"                  xmlPath="Inj_IncidentFromDateTime"               type="text"                                                         />
+  <Mapping pdfField="Date Of Injury MM"                    xmlPath="Inj_IncidentFromDateTime"               type="text"                                                         />
+  <Mapping pdfField="Date Of Injury DD"                    xmlPath="Inj_IncidentFromDateTime"               type="text"                                                         />
+  <Mapping pdfField="Worker Area Code"                     xmlPath="Wrkr_AreaCode"                          type="text"                                                         />
+  <Mapping pdfField="Worker Contact Prefix"                xmlPath="Wrkr_Number"                            type="text"                                                         />
+  <Mapping pdfField="Worker Contact Phone"                 xmlPath="Wrkr_Extension"                         type="text"                                                         />
+  <Mapping pdfField="Who Rendered First Treatment"                                                          type="text"                                                         />
+  <Mapping pdfField="PHN First Four Digits"                xmlPath="Wrkr_PersonalHealthNumber"              type="text"                                                         />
+  <Mapping pdfField="PHN Next Three Digits"                xmlPath="Wrkr_PersonalHealthNumber"              type="text"                                                         />
+  <Mapping pdfField="PHN Last Three Digits"                xmlPath="Wrkr_PersonalHealthNumber"              type="text"                                                         />
+  <Mapping pdfField="Regular Practitioner Yes"             											        type="radiobutton"     option="0"     value="Yes"                   />
+  <Mapping pdfField="Regular Practitioner No"              											        type="radiobutton"     option="1"     value="No"                    />
+  <Mapping pdfField="How Long Patient 0-6"                 											        type="radiobutton"     option="0"     value="0-6 months"            />
+  <Mapping pdfField="How Long Patient 7-12"                											        type="radiobutton"     option="1"     value="7–12 months"           />
+  <Mapping pdfField="How Long Patient > 12"                											        type="radiobutton"     option="2"     value="> 1 year"              />
+  <Mapping pdfField="Prior Problems"                       							                        type="text"                                                         />
+  <Mapping pdfField="Has The Worker Been Disabled Yes"     xmlPath="Claim_LostTimeIndicator"                type="radiobutton"     option="0"     value="Yes"                   />
+  <Mapping pdfField="Has The Worker Been Disabled No"      xmlPath="Claim_LostTimeIndicator"                type="radiobutton"     option="1"     value="No"                    />
+  <Mapping pdfField="Disabled Date"                        xmlPath="Rptm_PeriodStartDatetime"               type="text"                                                         />
+  <Mapping pdfField="Diagnosis"                            xmlPath="Inj_DiagnosisText"                      type="text"                                                         />
+  <Mapping pdfField="CSA BP AP"                            											        type="text"                                                         />
+  <Mapping pdfField="CSA NOI"                              			                                        type="text"                                                         />
+  <Mapping pdfField="ICD9"                                 											        type="text"                                                         />
+  <Mapping pdfField="What Happened"                        xmlPath="Claim_IncidentDescriptionText"          type="text"                                                         />
+  <Mapping pdfField="Medically Capable Yes"                										            type="radiobutton"     option="0"     value="Yes"                   />
+  <Mapping pdfField="Medically Capable No"                 									                type="radiobutton"     option="1"     value="No"                    />
+  <Mapping pdfField="Restrictions"                         										            type="text"                                                         />
+  <Mapping pdfField="Estimated Time 0"                     xmlPath="Rptm_ReportedTimePeriodTypeCode"        type="radiobutton"     option="0"     value="Currently at work"     />
+  <Mapping pdfField="Estimated Time 1-6"                   xmlPath="Rptm_ReportedTimePeriodTypeCode"        type="radiobutton"     option="1"     value="1–6 days"              />
+  <Mapping pdfField="Estimated Time 7-13"                  xmlPath="Rptm_ReportedTimePeriodTypeCode"        type="radiobutton"     option="2"     value="7–13 days"             />
+  <Mapping pdfField="Estimated Time 14-20"                 xmlPath="Rptm_ReportedTimePeriodTypeCode"        type="radiobutton"     option="3"     value="14–20 days"            />
+  <Mapping pdfField="Estimated Time > 20"                  xmlPath="Rptm_ReportedTimePeriodTypeCode"        type="radiobutton"     option="4"     value="> 20 days"             />
+  <Mapping pdfField="Now Ready For Rehab Yes"              											        type="radiobutton"     option="0"     value="Yes"                   />
+  <Mapping pdfField="Now Ready For Rehab No"               											        type="radiobutton"     option="1"     value="No"                    />
+  <Mapping pdfField="If Ready Rehab Yes WCP"               											        type="radiobutton"     option="0"     value="WCP"                   />
+  <Mapping pdfField="If Ready Rehab Yes Other"             											        type="radiobutton"     option="1"     value="Other"                 />
+  <Mapping pdfField="Wish To Consult Yes"                  xmlPath="Med_ConsultNurseAdvisorIndicator"       type="radiobutton"     option="0"     value="Yes"                   />
+  <Mapping pdfField="Wish To Consult No"                   xmlPath="Med_ConsultNurseAdvisorIndicator"       type="radiobutton"     option="1"     value="No"                    />
+  <Mapping pdfField="Recovery Date"                        xmlPath="P2D_MaximalRecoveryDate"                type="text"                                                         />
+  <Mapping pdfField="Payee Number"                         											        type="text"                                                         />
+  <Mapping pdfField="Practitioner Number"                  xmlPath="Prvdr_PractitionerNumber"               type="text"                                                         />
+  <Mapping pdfField="Payee Name"                           											        type="text"                                                         />
+  <Mapping pdfField="Practitioner Name"                    xmlPath="Prvdr_FirstName"                        type="text"                                                         />
+  <Mapping pdfField="Practitioner Name"                    xmlPath="Prvdr_LastName"                         type="text"                                                         />
+</Mappings>

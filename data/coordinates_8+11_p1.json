@@ -1,0 +1,895 @@
+[
+  {
+    "pdfField": "F8 Form",
+    "xmlPath": "P2D_FormType8",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "1"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 158.262,
+      "y": 721.253,
+      "width": 6.413999999999987,
+      "height": 6.40199999999993
+    }
+  },
+  {
+    "pdfField": "F11 Form",
+    "xmlPath": "P2D_FormType11",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "0"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 327.018,
+      "y": 721.347,
+      "width": 6.474000000000046,
+      "height": 6.378000000000043
+    }
+  },
+  {
+    "pdfField": "Date Of Service YYYY",
+    "xmlPath": "Claim_DateOfService",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 27.4826,
+      "y": 667.155,
+      "width": 45.68599999999999,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Date Of Service MM",
+    "xmlPath": "Claim_DateOfService",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 93.748,
+      "y": 667.155,
+      "width": 24.686999999999998,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Date Of Service DD",
+    "xmlPath": "Claim_DateOfService",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 138.597,
+      "y": 667.155,
+      "width": 24.686999999999983,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Date Of Birth YYYY",
+    "xmlPath": "Wrkr_DateOfBirth",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 305.947,
+      "y": 667.155,
+      "width": 45.577,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Date Of Birth MM",
+    "xmlPath": "Wrkr_DateOfBirth",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 372.705,
+      "y": 667.155,
+      "width": 23.644000000000005,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Date Of Birth DD",
+    "xmlPath": "Wrkr_DateOfBirth",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 416.566,
+      "y": 667.155,
+      "width": 23.64300000000003,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Claim Number",
+    "xmlPath": "Claim_Number",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 451.588,
+      "y": 667.155,
+      "width": 133.93799999999993,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Employers Name",
+    "xmlPath": "Emp_EmployerAccountName",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 27.2946,
+      "y": 647.127,
+      "width": 278.6624,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker Last Name",
+    "xmlPath": "Wrkr_LastName",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 306.67,
+      "y": 647.127,
+      "width": 278.662,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Employer Area Code",
+    "xmlPath": "Emp_PhoneAreaCode",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 160.062,
+      "y": 627.073,
+      "width": 34.88299999999998,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Employer Prefix",
+    "xmlPath": "Emp_PhonePrefix",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 206.039,
+      "y": 627.823,
+      "width": 34.49600000000001,
+      "height": 14.402000000000044
+    }
+  },
+  {
+    "pdfField": "Employer Phone Number",
+    "xmlPath": "Emp_PhoneNumber",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 249.837,
+      "y": 627.073,
+      "width": 45.374000000000024,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker First Name",
+    "xmlPath": "Wrkr_FirstName",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 306.362,
+      "y": 627.073,
+      "width": 189.808,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker Middle Initial",
+    "xmlPath": "Wrkr_MiddleInitials",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 496.816,
+      "y": 627.073,
+      "width": 55.26000000000005,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker Gender",
+    "xmlPath": "Wrkr_Gender",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 552.677,
+      "y": 627.073,
+      "width": 32.07299999999998,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Employer Address 1",
+    "xmlPath": "Emp_AddressLine1",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 27.0697,
+      "y": 605.267,
+      "width": 279.82329999999996,
+      "height": 15.616999999999962
+    }
+  },
+  {
+    "pdfField": "Worker Address 1",
+    "xmlPath": "Wrkr_AddressLine1",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 305.591,
+      "y": 620.884,
+      "width": 279.823,
+      "height": -15.616999999999962
+    }
+  },
+  {
+    "pdfField": "Employer Address 2",
+    "xmlPath": "Emp_AddressLine2",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 27.0697,
+      "y": 606.791,
+      "width": 279.82329999999996,
+      "height": -15.617000000000075
+    }
+  },
+  {
+    "pdfField": "Worker Address 2",
+    "xmlPath": "Wrkr_AddressLine2",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 305.591,
+      "y": 606.465,
+      "width": 279.823,
+      "height": -15.617000000000075
+    }
+  },
+  {
+    "pdfField": "Date Of Injury YYYY",
+    "xmlPath": "Inj_IncidentFromDateTime",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 27.3721,
+      "y": 570.468,
+      "width": 45.7364,
+      "height": 15.617000000000075
+    }
+  },
+  {
+    "pdfField": "Date Of Injury MM",
+    "xmlPath": "Inj_IncidentFromDateTime",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 93.186,
+      "y": 570.468,
+      "width": 24.417999999999992,
+      "height": 15.617000000000075
+    }
+  },
+  {
+    "pdfField": "Date Of Injury DD",
+    "xmlPath": "Inj_IncidentFromDateTime",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 138.023,
+      "y": 570.468,
+      "width": 24.41900000000001,
+      "height": 15.617000000000075
+    }
+  },
+  {
+    "pdfField": "Worker Area Code",
+    "xmlPath": "Wrkr_AreaCode",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 450.674,
+      "y": 570.468,
+      "width": 35.25300000000004,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker Contact Prefix",
+    "xmlPath": "Wrkr_Number",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 494.659,
+      "y": 570.468,
+      "width": 35.65899999999999,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Worker Contact Phone",
+    "xmlPath": "Wrkr_Extension",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 540.348,
+      "y": 570.468,
+      "width": 44.96199999999999,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Who Rendered First Treatment",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.2713,
+      "y": 550.903,
+      "width": 278.3707,
+      "height": 15.616999999999962
+    }
+  },
+  {
+    "pdfField": "PHN First Four Digits",
+    "xmlPath": "Wrkr_PersonalHealthNumber",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 305.606,
+      "y": 548.716,
+      "width": 45.90899999999999,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "PHN Next Three Digits",
+    "xmlPath": "Wrkr_PersonalHealthNumber",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 372.542,
+      "y": 548.716,
+      "width": 35.25300000000004,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "PHN Last Three Digits",
+    "xmlPath": "Wrkr_PersonalHealthNumber",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 428.356,
+      "y": 548.716,
+      "width": 35.252999999999986,
+      "height": 15.152000000000044
+    }
+  },
+  {
+    "pdfField": "Regular Practitioner Yes",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Yes"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 181.372,
+      "y": 541.911,
+      "width": 6.385999999999996,
+      "height": 6.344000000000051
+    }
+  },
+  {
+    "pdfField": "Regular Practitioner No",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "No"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 235.363,
+      "y": 541.85,
+      "width": 6.537000000000006,
+      "height": 6.496999999999957
+    }
+  },
+  {
+    "pdfField": "How Long Patient 0-6",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "0-6 months"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 235.41,
+      "y": 531.92,
+      "width": 6.3729999999999905,
+      "height": 6.357000000000085
+    }
+  },
+  {
+    "pdfField": "How Long Patient 7-12",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "7–12 months"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 368.195,
+      "y": 531.962,
+      "width": 6.454999999999984,
+      "height": 6.369000000000028
+    }
+  },
+  {
+    "pdfField": "How Long Patient > 12",
+    "type": "radiobutton",
+    "option": [
+      "2"
+    ],
+    "value": [
+      "> 1 year"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 505.305,
+      "y": 531.88,
+      "width": 6.550000000000011,
+      "height": 6.48599999999999
+    }
+  },
+  {
+    "pdfField": "Prior Problems",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 29.6754,
+      "y": 476.599,
+      "width": 554.5436000000001,
+      "height": 44.08300000000003
+    }
+  },
+  {
+    "pdfField": "Has The Worker Been Disabled Yes",
+    "xmlPath": "Claim_LostTimeIndicator",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Yes"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 278.101,
+      "y": 460.807,
+      "width": 6.524999999999977,
+      "height": 6.484999999999957
+    }
+  },
+  {
+    "pdfField": "Has The Worker Been Disabled No",
+    "xmlPath": "Claim_LostTimeIndicator",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "No"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 331.657,
+      "y": 460.83,
+      "width": 6.478000000000009,
+      "height": 6.485000000000014
+    }
+  },
+  {
+    "pdfField": "Disabled Date",
+    "xmlPath": "Rptm_PeriodStartDatetime",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 401.213,
+      "y": 455.628,
+      "width": 184.05,
+      "height": 14.729000000000042
+    }
+  },
+  {
+    "pdfField": "Diagnosis",
+    "xmlPath": "Inj_DiagnosisText",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.6822,
+      "y": 418.631,
+      "width": 556.1898,
+      "height": 17.726000000000056
+    }
+  },
+  {
+    "pdfField": "CSA BP AP",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.4574,
+      "y": 396.817,
+      "width": 183.7056,
+      "height": 17.726
+    }
+  },
+  {
+    "pdfField": "CSA NOI",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 214.256,
+      "y": 396.817,
+      "width": 184.86100000000002,
+      "height": 17.726
+    }
+  },
+  {
+    "pdfField": "ICD9",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 400.201,
+      "y": 396.817,
+      "width": 185.24699999999996,
+      "height": 17.726
+    }
+  },
+  {
+    "pdfField": "What Happened",
+    "xmlPath": "Claim_IncidentDescriptionText",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.6754,
+      "y": 255.914,
+      "width": 555.8586,
+      "height": 122.70300000000003
+    }
+  },
+  {
+    "pdfField": "Medically Capable Yes",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Yes"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 277.626,
+      "y": 232.079,
+      "width": 6.455000000000041,
+      "height": 6.439999999999998
+    }
+  },
+  {
+    "pdfField": "Medically Capable No",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "No"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 330.675,
+      "y": 232.056,
+      "width": 6.641999999999996,
+      "height": 6.626999999999981
+    }
+  },
+  {
+    "pdfField": "Restrictions",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 29.29,
+      "y": 184.903,
+      "width": 555.3140000000001,
+      "height": 41.025000000000006
+    }
+  },
+  {
+    "pdfField": "Estimated Time 0",
+    "xmlPath": "Rptm_ReportedTimePeriodTypeCode",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Currently at work"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 36.9462,
+      "y": 170.863,
+      "width": 6.4787000000000035,
+      "height": 6.603000000000009
+    }
+  },
+  {
+    "pdfField": "Estimated Time 1-6",
+    "xmlPath": "Rptm_ReportedTimePeriodTypeCode",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "1–6 days"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 168.405,
+      "y": 171.238,
+      "width": 5.4480000000000075,
+      "height": 5.664999999999992
+    }
+  },
+  {
+    "pdfField": "Estimated Time 7-13",
+    "xmlPath": "Rptm_ReportedTimePeriodTypeCode",
+    "type": "radiobutton",
+    "option": [
+      "2"
+    ],
+    "value": [
+      "7–13 days"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 277.604,
+      "y": 170.863,
+      "width": 6.480000000000018,
+      "height": 6.603000000000009
+    }
+  },
+  {
+    "pdfField": "Estimated Time 14-20",
+    "xmlPath": "Rptm_ReportedTimePeriodTypeCode",
+    "type": "radiobutton",
+    "option": [
+      "3"
+    ],
+    "value": [
+      "14–20 days"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 390.964,
+      "y": 170.895,
+      "width": 6.541999999999973,
+      "height": 6.570999999999998
+    }
+  },
+  {
+    "pdfField": "Estimated Time > 20",
+    "xmlPath": "Rptm_ReportedTimePeriodTypeCode",
+    "type": "radiobutton",
+    "option": [
+      "4"
+    ],
+    "value": [
+      "> 20 days"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 508.38,
+      "y": 170.863,
+      "width": 6.635999999999967,
+      "height": 6.6340000000000146
+    }
+  },
+  {
+    "pdfField": "Now Ready For Rehab Yes",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Yes"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 277.604,
+      "y": 150.57,
+      "width": 6.448000000000036,
+      "height": 6.635000000000019
+    }
+  },
+  {
+    "pdfField": "Now Ready For Rehab No",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "No"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 332.477,
+      "y": 150.789,
+      "width": 6.510000000000048,
+      "height": 6.354000000000013
+    }
+  },
+  {
+    "pdfField": "If Ready Rehab Yes WCP",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "WCP"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 446.789,
+      "y": 150.74,
+      "width": 6.603000000000009,
+      "height": 6.445999999999998
+    }
+  },
+  {
+    "pdfField": "If Ready Rehab Yes Other",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "Other"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 508.036,
+      "y": 150.677,
+      "width": 6.511000000000024,
+      "height": 6.570999999999998
+    }
+  },
+  {
+    "pdfField": "Wish To Consult Yes",
+    "xmlPath": "Med_ConsultNurseAdvisorIndicator",
+    "type": "radiobutton",
+    "option": [
+      "0"
+    ],
+    "value": [
+      "Yes"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 277.604,
+      "y": 129.553,
+      "width": 6.54200000000003,
+      "height": 6.603000000000009
+    }
+  },
+  {
+    "pdfField": "Wish To Consult No",
+    "xmlPath": "Med_ConsultNurseAdvisorIndicator",
+    "type": "radiobutton",
+    "option": [
+      "1"
+    ],
+    "value": [
+      "No"
+    ],
+    "coords": {
+      "page": 0,
+      "x": 332.071,
+      "y": 129.585,
+      "width": 6.508999999999958,
+      "height": 6.477000000000004
+    }
+  },
+  {
+    "pdfField": "Recovery Date",
+    "xmlPath": "P2D_MaximalRecoveryDate",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.6822,
+      "y": 102.659,
+      "width": 556.1228,
+      "height": 14.759999999999991
+    }
+  },
+  {
+    "pdfField": "Payee Number",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.1085,
+      "y": 72.4578,
+      "width": 278.2765,
+      "height": 14.759599999999992
+    }
+  },
+  {
+    "pdfField": "Practitioner Number",
+    "xmlPath": "Prvdr_PractitionerNumber",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 306.806,
+      "y": 87.2174,
+      "width": 278.277,
+      "height": -14.759599999999992
+    }
+  },
+  {
+    "pdfField": "Payee Name",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 28.1085,
+      "y": 52.2099,
+      "width": 278.2765,
+      "height": 14.759599999999999
+    }
+  },
+  {
+    "pdfField": "Practitioner Name",
+    "xmlPath": "Prvdr_FirstName",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 306.806,
+      "y": 52.2099,
+      "width": 278.277,
+      "height": 14.759599999999999
+    }
+  },
+  {
+    "pdfField": "Practitioner Name",
+    "xmlPath": "Prvdr_LastName",
+    "type": "text",
+    "coords": {
+      "page": 0,
+      "x": 306.806,
+      "y": 52.2099,
+      "width": 278.277,
+      "height": 14.759599999999999
+    }
+  }
+]

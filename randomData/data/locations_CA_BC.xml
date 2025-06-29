@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: locations_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region locations.
+    • Feeds generateRandomData.js to build
+      <addressCityPostal>, <areaCode> in workers.xml,
+      employers.xml, etc., guaranteeing valid combos.
+  Generator:
+    • Address generator samples one <Location> and uses its
+      city, province, state, postal, zip, areaCode & country.
+  Element:
+    • <Location
+        city="…" 
+        province="BC" 
+        state="British Columbia" 
+        postal="…"
+        zip="…"
+        areaCode="…"
+        country="Canada"/>
+-->
+<Locations>
+  <!-- Metro Vancouver & Fraser Valley (1–25) -->
+  <Location city="Vancouver"           province="BC" state="British Columbia" postal="V5K 0A1" zip="V5K0A1" areaCode="604" country="Canada"/>
+  <Location city="Burnaby"             province="BC" state="British Columbia" postal="V5C 0A2" zip="V5C0A2" areaCode="604" country="Canada"/>
+  <Location city="Richmond"            province="BC" state="British Columbia" postal="V6X 1B1" zip="V6X1B1" areaCode="604" country="Canada"/>
+  <Location city="Surrey"              province="BC" state="British Columbia" postal="V3R 1C1" zip="V3R1C1" areaCode="604" country="Canada"/>
+  <Location city="Coquitlam"           province="BC" state="British Columbia" postal="V3K 1D1" zip="V3K1D1" areaCode="604" country="Canada"/>
+  <Location city="Langley"             province="BC" state="British Columbia" postal="V1M 1E1" zip="V1M1E1" areaCode="604" country="Canada"/>
+  <Location city="Abbotsford"          province="BC" state="British Columbia" postal="V2S 1F1" zip="V2S1F1" areaCode="604" country="Canada"/>
+  <Location city="Maple Ridge"         province="BC" state="British Columbia" postal="V2X 1G1" zip="V2X1G1" areaCode="604" country="Canada"/>
+  <Location city="New Westminster"     province="BC" state="British Columbia" postal="V3M 1H1" zip="V3M1H1" areaCode="604" country="Canada"/>
+  <Location city="North Vancouver"     province="BC" state="British Columbia" postal="V7L 1J1" zip="V7L1J1" areaCode="604" country="Canada"/>
+  <Location city="West Vancouver"      province="BC" state="British Columbia" postal="V7V 1K1" zip="V7V1K1" areaCode="604" country="Canada"/>
+  <Location city="Delta"               province="BC" state="British Columbia" postal="V4K 1L1" zip="V4K1L1" areaCode="604" country="Canada"/>
+  <Location city="White Rock"          province="BC" state="British Columbia" postal="V4B 1M1" zip="V4B1M1" areaCode="604" country="Canada"/>
+  <Location city="Port Coquitlam"      province="BC" state="British Columbia" postal="V3B 1N1" zip="V3B1N1" areaCode="604" country="Canada"/>
+  <Location city="Port Moody"          province="BC" state="British Columbia" postal="V3H 1P1" zip="V3H1P1" areaCode="604" country="Canada"/>
+  <Location city="Pitt Meadows"        province="BC" state="British Columbia" postal="V3Y 1Q1" zip="V3Y1Q1" areaCode="604" country="Canada"/>
+  <Location city="Mission"             province="BC" state="British Columbia" postal="V2V 1R1" zip="V2V1R1" areaCode="604" country="Canada"/>
+  <Location city="Chilliwack"          province="BC" state="British Columbia" postal="V2P 1S1" zip="V2P1S1" areaCode="604" country="Canada"/>
+  <Location city="Agassiz"             province="BC" state="British Columbia" postal="V0M 1T1" zip="V0M1T1" areaCode="604" country="Canada"/>
+  <Location city="Hope"                province="BC" state="British Columbia" postal="V0X 1V1" zip="V0X1V1" areaCode="604" country="Canada"/>
+  <Location city="Ladner"              province="BC" state="British Columbia" postal="V4K 1W1" zip="V4K1W1" areaCode="604" country="Canada"/>
+  <Location city="Tsawwassen"          province="BC" state="British Columbia" postal="V4M 1X1" zip="V4M1X1" areaCode="604" country="Canada"/>
+  <Location city="Anmore"              province="BC" state="British Columbia" postal="V3H 1Z1" zip="V3H1Z1" areaCode="604" country="Canada"/>
+  <Location city="Belcarra"            province="BC" state="British Columbia" postal="V3H 1A2" zip="V3H1A2" areaCode="604" country="Canada"/>
+  <Location city="Harrison Hot Springs"province="BC" state="British Columbia" postal="V0M 1B2" zip="V0M1B2" areaCode="604" country="Canada"/>
+
+  <!-- Vancouver Island & Surrounds (26–45) -->
+  <Location city="Victoria"            province="BC" state="British Columbia" postal="V8W 1P6" zip="V8W1P6" areaCode="250" country="Canada"/>
+  <Location city="Nanaimo"             province="BC" state="British Columbia" postal="V9R 1A1" zip="V9R1A1" areaCode="250" country="Canada"/>
+  <Location city="Saanich"             province="BC" state="British Columbia" postal="V8X 1B1" zip="V8X1B1" areaCode="250" country="Canada"/>
+  <Location city="Oak Bay"             province="BC" state="British Columbia" postal="V8V 1C1" zip="V8V1C1" areaCode="250" country="Canada"/>
+  <Location city="Langford"            province="BC" state="British Columbia" postal="V9B 1D1" zip="V9B1D1" areaCode="250" country="Canada"/>
+  <Location city="Esquimalt"           province="BC" state="British Columbia" postal="V9A 1E1" zip="V9A1E1" areaCode="250" country="Canada"/>
+  <Location city="Colwood"             province="BC" state="British Columbia" postal="V9C 1F1" zip="V9C1F1" areaCode="250" country="Canada"/>
+  <Location city="Sidney"              province="BC" state="British Columbia" postal="V8L 1G1" zip="V8L1G1" areaCode="250" country="Canada"/>
+  <Location city="Duncan"              province="BC" state="British Columbia" postal="V9L 1H1" zip="V9L1H1" areaCode="250" country="Canada"/>
+  <Location city="Parksville"          province="BC" state="British Columbia" postal="V9P 1J1" zip="V9P1J1" areaCode="250" country="Canada"/>
+  <Location city="Courtenay"           province="BC" state="British Columbia" postal="V9N 1K1" zip="V9N1K1" areaCode="250" country="Canada"/>
+  <Location city="Campbell River"      province="BC" state="British Columbia" postal="V9W 1L1" zip="V9W1L1" areaCode="250" country="Canada"/>
+  <Location city="Port Alberni"        province="BC" state="British Columbia" postal="V9Y 1M1" zip="V9Y1M1" areaCode="250" country="Canada"/>
+  <Location city="Tofino"              province="BC" state="British Columbia" postal="V0R 1N1" zip="V0R1N1" areaCode="250" country="Canada"/>
+  <Location city="Ucluelet"            province="BC" state="British Columbia" postal="V0R 1P1" zip="V0R1P1" areaCode="250" country="Canada"/>
+  <Location city="Port Hardy"          province="BC" state="British Columbia" postal="V0N 1R1" zip="V0N1R1" areaCode="250" country="Canada"/>
+  <Location city="Alert Bay"           province="BC" state="British Columbia" postal="V0N 1S1" zip="V0N1S1" areaCode="250" country="Canada"/>
+  <Location city="Comox"               province="BC" state="British Columbia" postal="V9M 1T1" zip="V9M1T1" areaCode="250" country="Canada"/>
+  <Location city="Powell River"        province="BC" state="British Columbia" postal="V8A 1V1" zip="V8A1V1" areaCode="604" country="Canada"/>
+  <Location city="Gibsons"             province="BC" state="British Columbia" postal="V0N 1W1" zip="V0N1W1" areaCode="604" country="Canada"/>
+
+  <!-- Interior & Okanagan (46–65) -->
+  <Location city="Kelowna"             province="BC" state="British Columbia" postal="V1P 1A1" zip="V1P1A1" areaCode="250" country="Canada"/>
+  <Location city="Kamloops"            province="BC" state="British Columbia" postal="V2C 1B1" zip="V2C1B1" areaCode="250" country="Canada"/>
+  <Location city="Vernon"              province="BC" state="British Columbia" postal="V1T 1C1" zip="V1T1C1" areaCode="250" country="Canada"/>
+  <Location city="Penticton"           province="BC" state="British Columbia" postal="V2A 1D1" zip="V2A1D1" areaCode="250" country="Canada"/>
+  <Location city="Salmon Arm"          province="BC" state="British Columbia" postal="V1E 1E1" zip="V1E1E1" areaCode="250" country="Canada"/>
+  <Location city="Trail"               province="BC" state="British Columbia" postal="V1R 1F1" zip="V1R1F1" areaCode="250" country="Canada"/>
+  <Location city="Nelson"              province="BC" state="British Columbia" postal="V1L 1G1" zip="V1L1G1" areaCode="250" country="Canada"/>
+  <Location city="Cranbrook"           province="BC" state="British Columbia" postal="V1C 1H1" zip="V1C1H1" areaCode="250" country="Canada"/>
+  <Location city="Castlegar"           province="BC" state="British Columbia" postal="V1N 1J1" zip="V1N1J1" areaCode="250" country="Canada"/>
+  <Location city="Golden"              province="BC" state="British Columbia" postal="V0A 1K1" zip="V0A1K1" areaCode="250" country="Canada"/>
+  <Location city="Revelstoke"          province="BC" state="British Columbia" postal="V0E 1L1" zip="V0E1L1" areaCode="250" country="Canada"/>
+  <Location city="Merritt"             province="BC" state="British Columbia" postal="V1K 1M1" zip="V1K1M1" areaCode="250" country="Canada"/>
+  <Location city="Quesnel"             province="BC" state="British Columbia" postal="V2J 1N1" zip="V2J1N1" areaCode="250" country="Canada"/>
+  <Location city="Prince George"       province="BC" state="British Columbia" postal="V2L 1P1" zip="V2L1P1" areaCode="250" country="Canada"/>
+  <Location city="Williams Lake"       province="BC" state="British Columbia" postal="V2G 1R1" zip="V2G1R1" areaCode="250" country="Canada"/>
+  <Location city="Fort St. John"       province="BC" state="British Columbia" postal="V1J 1S1" zip="V1J1S1" areaCode="250" country="Canada"/>
+  <Location city="Dawson Creek"        province="BC" state="British Columbia" postal="V1G 1T1" zip="V1G1T1" areaCode="250" country="Canada"/>
+  <Location city="Chetwynd"            province="BC" state="British Columbia" postal="V0C 1V1" zip="V0C1V1" areaCode="250" country="Canada"/>
+  <Location city="Fort Nelson"         province="BC" state="British Columbia" postal="V0C 1W1" zip="V0C1W1" areaCode="250" country="Canada"/>
+  <Location city="Terrace"             province="BC" state="British Columbia" postal="V8G 1X1" zip="V8G1X1" areaCode="250" country="Canada"/>
+
+  <!-- Kootenays (66–73) -->
+  <Location city="Fernie"              province="BC" state="British Columbia" postal="V0B 1Y1" zip="V0B1Y1" areaCode="250" country="Canada"/>
+  <Location city="Kimberley"           province="BC" state="British Columbia" postal="V1A 1Z1" zip="V1A1Z1" areaCode="250" country="Canada"/>
+  <Location city="Creston"             province="BC" state="British Columbia" postal="V0B 1A3" zip="V0B1A3" areaCode="250" country="Canada"/>
+  <Location city="Invermere"           province="BC" state="British Columbia" postal="V0A 1B2" zip="V0A1B2" areaCode="250" country="Canada"/>
+  <Location city="Rossland"            province="BC" state="British Columbia" postal="V0G 1C2" zip="V0G1C2" areaCode="250" country="Canada"/>
+  <Location city="Sparwood"            province="BC" state="British Columbia" postal="V0B 1D2" zip="V0B1D2" areaCode="250" country="Canada"/>
+  <Location city="Elkford"             province="BC" state="British Columbia" postal="V0B 1E3" zip="V0B1E3" areaCode="250" country="Canada"/>
+  <Location city="Kaslo"               province="BC" state="British Columbia" postal="V0G 1F1" zip="V0G1F1" areaCode="250" country="Canada"/>
+
+  <!-- Northern BC (74–82) -->
+  <Location city="Prince Rupert"       province="BC" state="British Columbia" postal="V8J 1G1" zip="V8J1G1" areaCode="250" country="Canada"/>
+  <Location city="Kitimat"             province="BC" state="British Columbia" postal="V8C 1H1" zip="V8C1H1" areaCode="250" country="Canada"/>
+  <Location city="Smithers"            province="BC" state="British Columbia" postal="V0J 1R0" zip="V0J1R0" areaCode="250" country="Canada"/>
+  <Location city="Mackenzie"           province="BC" state="British Columbia" postal="V0J 1P0" zip="V0J1P0" areaCode="250" country="Canada"/>
+  <Location city="Houston"             province="BC" state="British Columbia" postal="V0J 1Z0" zip="V0J1Z0" areaCode="250" country="Canada"/>
+  <Location city="Hazelton"            province="BC" state="British Columbia" postal="V0J 1Y0" zip="V0J1Y0" areaCode="250" country="Canada"/>
+  <Location city="Stewart"             province="BC" state="British Columbia" postal="V0T 1R0" zip="V0T1R0" areaCode="250" country="Canada"/>
+  <Location city="Burns Lake"          province="BC" state="British Columbia" postal="V0J 1S1" zip="V0J1S1" areaCode="250" country="Canada"/>
+  <Location city="Fort St James"       province="BC" state="British Columbia" postal="V0J 1T1" zip="V0J1T1" areaCode="250" country="Canada"/>
+
+  <!-- Sunshine Coast & Gulf Islands (83–89) -->
+  <Location city="Sechelt"             province="BC" state="British Columbia" postal="V0N 1H0" zip="V0N1H0" areaCode="604" country="Canada"/>
+  <Location city="Pender Harbour"      province="BC" state="British Columbia" postal="V0N 2M0" zip="V0N2M0" areaCode="604" country="Canada"/>
+  <Location city="Bowen Island"        province="BC" state="British Columbia" postal="V0N 1G0" zip="V0N1G0" areaCode="604" country="Canada"/>
+  <Location city="Mayne Island"        province="BC" state="British Columbia" postal="V0N 2J0" zip="V0N2J0" areaCode="250" country="Canada"/>
+  <Location city="Salt Spring Island"  province="BC" state="British Columbia" postal="V8K 2V6" zip="V8K2V6" areaCode="250" country="Canada"/>
+  <Location city="Squamish"            province="BC" state="British Columbia" postal="V0N 2G0" zip="V0N2G0" areaCode="604" country="Canada"/>
+  <Location city="Whistler"            province="BC" state="British Columbia" postal="V0N 1B4" zip="V0N1B4" areaCode="604" country="Canada"/>
+
+  <!-- Other BC towns (90–100) -->
+  <Location city="Osoyoos"             province="BC" state="British Columbia" postal="V0H 1V0" zip="V0H1V0" areaCode="250" country="Canada"/>
+  <Location city="Oliver"              province="BC" state="British Columbia" postal="V0H 1T0" zip="V0H1T0" areaCode="250" country="Canada"/>
+  <Location city="Keremeos"            province="BC" state="British Columbia" postal="V0X 1N0" zip="V0X1N0" areaCode="250" country="Canada"/>
+  <Location city="Princeton"           province="BC" state="British Columbia" postal="V0X 1W0" zip="V0X1W0" areaCode="250" country="Canada"/>
+  <Location city="Gold River"          province="BC" state="British Columbia" postal="V0P 1G0" zip="V0P1G0" areaCode="250" country="Canada"/>
+  <Location city="Port McNeill"        province="BC" state="British Columbia" postal="V0N 2R0" zip="V0N2R0" areaCode="250" country="Canada"/>
+  <Location city="Qualicum Beach"      province="BC" state="British Columbia" postal="V9K 1J9" zip="V9K1J9" areaCode="250" country="Canada"/>
+  <Location city="Ladysmith"           province="BC" state="British Columbia" postal="V9G 1M8" zip="V9G1M8" areaCode="250" country="Canada"/>
+  <Location city="Summerland"          province="BC" state="British Columbia" postal="V0H 1Z0" zip="V0H1Z0" areaCode="250" country="Canada"/>
+  <Location city="Grand Forks"         province="BC" state="British Columbia" postal="V0H 1H0" zip="V0H1H0" areaCode="250" country="Canada"/>
+  <Location city="Port Alice"          province="BC" state="British Columbia" postal="V0N 2R0" zip="V0N2R0" areaCode="250" country="Canada"/>
+</Locations>

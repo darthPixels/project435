@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FontsHandwriting>
+  <!-- Google Fonts -->
+  <Font>
+    <Name>Alex Brush</Name>
+    <File>AlexBrush.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Alex+Brush</SourceURL>
+  </Font>
+  <Font>
+    <Name>Allison</Name>
+    <File>Allison.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Allison</SourceURL>
+  </Font>
+  <Font>
+    <Name>Caveat</Name>
+    <File>Caveat.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Caveat</SourceURL>
+  </Font>
+  <Font>
+    <Name>Cedarville Cursive</Name>
+    <File>CedarvilleCursive.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Cedarville+Cursive</SourceURL>
+  </Font>
+  <Font>
+    <Name>Dancing Script</Name>
+    <File>DancingScript.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Dancing+Script</SourceURL>
+  </Font>
+  <Font>
+    <Name>Handlee</Name>
+    <File>Handlee.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Handlee</SourceURL>
+  </Font>
+  <Font>
+    <Name>Homemade Apple</Name>
+    <File>HomemadeApple.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Homemade+Apple</SourceURL>
+  </Font>
+  <Font>
+    <Name>Indie Flower</Name>
+    <File>IndieFlower.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Indie+Flower</SourceURL>
+  </Font>
+  <Font>
+    <Name>Kalam</Name>
+    <File>Kalam.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Kalam</SourceURL>
+  </Font>
+  <Font>
+    <Name>Mrs Saint Delafield</Name>
+    <File>MrsSaintDelafield.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Mrs+Saint+Delafield</SourceURL>
+  </Font>
+  <Font>
+    <Name>Ms Madi</Name>
+    <File>MsMadi.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Ms+Madi</SourceURL>
+  </Font>
+  <Font>
+    <Name>Mynerve</Name>
+    <File>Mynerve.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Mynerve</SourceURL>
+  </Font>
+  <Font>
+    <Name>Over the Rainbow</Name>
+    <File>OverTheRainbow.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Over+the+Rainbow</SourceURL>
+  </Font>
+  <Font>
+    <Name>Patrick Hand</Name>
+    <File>PatrickHand.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Patrick+Hand</SourceURL>
+  </Font>
+  <Font>
+    <Name>Rock Salt</Name>
+    <File>RockSalt.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Rock+Salt</SourceURL>
+  </Font>
+  <Font>
+    <Name>Sue Ellen Francisco</Name>
+    <File>SueEllenFrancisco.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Sue+Ellen+Francisco</SourceURL>
+  </Font>
+  <Font>
+    <Name>Swanky and Moo Moo</Name>
+    <File>SwankyAndMooMoo.ttf</File>
+    <SourceURL>https://fonts.google.com/specimen/Swanky+and+Moo+Moo</SourceURL>
+  </Font>
+
+  <!-- Demo Fonts (1001fonts.com – personal use only) -->
+  <Font>
+    <Name>Amiline</Name>
+    <File>Amiline.ttf</File>
+    <SourceURL>https://www.1001fonts.com/amiline-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>And This Happened</Name>
+    <File>AndThisHappened.ttf</File>
+    <SourceURL>https://www.1001fonts.com/and-this-happened-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>assign</Name>
+    <File>assign.ttf</File>
+    <SourceURL>https://www.1001fonts.com/assign-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>bedtime stories</Name>
+    <File>bedtimeStories.ttf</File>
+    <SourceURL>https://www.1001fonts.com/bedtime-stories-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Brushy Handwriting - Demo</Name>
+    <File>BrushyHandwritingDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/brushy-handwriting-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Crustaceans Signature DEMO</Name>
+    <File>CrustaceansSignatureDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/crustaceans-signature-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>emizfont</Name>
+    <File>emizfont.ttf</File>
+    <SourceURL>https://www.1001fonts.com/emizfont-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Gothenburg Demo</Name>
+    <File>GothenburgDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/gothenburg-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Groningen Demo</Name>
+    <File>GroningenDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/groningen-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Just Me Again Down Here</Name>
+    <File>JustMeAgainDownHere.ttf</File>
+    <SourceURL>https://www.1001fonts.com/just-me-again-down-here-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Kids Sketchy Demo</Name>
+    <File>KidsSketchyDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/kids-sketchy-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>kidS Written</Name>
+    <File>kidSWritten.ttf</File>
+    <SourceURL>https://www.1001fonts.com/kids-written-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Matter Guts Demo</Name>
+    <File>MatterGutsDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/matter-guts-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Mumsies</Name>
+    <File>Mumsies.ttf</File>
+    <SourceURL>https://www.1001fonts.com/mumsies-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Neil</Name>
+    <File>Neil.ttf</File>
+    <SourceURL>https://www.1001fonts.com/neil-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Pizza is my FAVORITE</Name>
+    <File>PizzaIsMyFAVORITE.ttf</File>
+    <SourceURL>https://www.1001fonts.com/pizza-is-my-favorite-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>PWJunescript</Name>
+    <File>PWJunescript.ttf</File>
+    <SourceURL>https://www.1001fonts.com/pwjunescript-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Reprobate</Name>
+    <File>Reprobate.ttf</File>
+    <SourceURL>https://www.1001fonts.com/reprobate-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>SF Scribbled Sans</Name>
+    <File>SFScribbledSans.ttf</File>
+    <SourceURL>https://www.1001fonts.com/sf-scribbled-sans-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Something Stylish - Demo</Name>
+    <File>SomethingStylishDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/something-stylish-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Stranger In You</Name>
+    <File>StrangerInYou.ttf</File>
+    <SourceURL>https://www.1001fonts.com/stranger-in-you-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>The Ballpoint</Name>
+    <File>TheBallpoint.ttf</File>
+    <SourceURL>https://www.1001fonts.com/the-ballpoint-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>The Moyanka Demo</Name>
+    <File>TheMoyankaDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/the-moyanka-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>White Honey Demo</Name>
+    <File>WhiteHoneyDemo.ttf</File>
+    <SourceURL>https://www.1001fonts.com/white-honey-demo-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>You Wont Bring Me Down</Name>
+    <File>YouWontBringMeDown.ttf</File>
+    <SourceURL>https://www.1001fonts.com/you-wont-bring-me-down-font.html</SourceURL>
+  </Font>
+  <Font>
+    <Name>Zeyada</Name>
+    <File>Zeyada.ttf</File>
+    <SourceURL>https://www.1001fonts.com/zeyada-font.html</SourceURL>
+  </Font>
+</FontsHandwriting>

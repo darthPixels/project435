@@ -1,0 +1,89 @@
+Generate Testdata
+
+¦   extractCoordinates.js
+¦   generateFieldmapping.js
+¦   generateTestdata.js
+¦   listFields.js
+¦   npm
+¦   package-lock.json
+¦   package.json
+¦   README.md
+¦   treeOutput.txt
+¦   
++---data
+¦       coordinates_8+11_p1.json
+¦       fieldmapping_8+11_p1.xml
+¦       
++---faxSim
+¦       faxSim.ini
+¦       faxSim.js
+¦       faxSim_effect_brightness.js
+¦       faxSim_effect_dropout.js
+¦       faxSim_effect_mirror.js
+¦       faxSim_effect_noiseW.js
+¦       faxSim_effect_raster.js
+¦       faxSim_effect_rotate.js
+¦       faxSim_effect_stripes.js
+¦       faxSim_effect_stripesW.js
+¦       faxSim_effect_tileshift.js
+¦       faxSim_effect_warp.js
+¦       gradientMask.png
+¦       
++---fonts
+...
+TTF fonts
+...
+¦       
++---handwriting
+¦       handwriting-test_brutal.pdf
+¦       handwriting-test_null.pdf
+¦       handwriting-test_standard.pdf
+¦       handwritingTest.ini
+¦       handwritingTest.js
+¦       handwritingTest_brutal.ini
+¦       handwritingTest_null.ini
+¦       handwritingTest_standard.ini
+¦       
++---logs
+¦       testdata_2025-06-29_06-23.log
+¦       
++---node_modules
+¦   ¦   .package-lock.json
+¦   ¦   
+...
+node modules
+...
+¦               
++---output
+¦   +---pdf
+¦   +---tiff
+¦   +---xml
++---randomData
+¦   ¦   generateRandomData.js
+¦   ¦   randomDataHelpers.js
+¦   ¦   WSBC_incidentReports.txt
+¦   ¦   xmlPath_config.js
+¦   ¦   xml_outputTemplate.xml
+¦   ¦   xml_outputTemplate_EXAMPLE.xml
+¦   ¦   
+¦   +---data
+¦           companies_CA_BC.xml
+¦           diagnoses_CA_BC.xml
+¦           ethnicity_CA_BC.xml
+¦           firstNames_CA_BC.xml
+¦           hospitals_CA_BC.xml
+¦           lastNames_CA_BC.xml
+¦           locations_CA_BC.xml
+¦           practitioners_CA_BC.xml
+¦           streetNames_CA_BC.xml
+¦           
++---resources
+¦       fontsHandwriting.xml
+¦       randomData_form8+11_p1.xml
+¦       
++---templates
+¦       template_8+11_p1.pdf
+¦       
++---vendor
+    +---imagemagick
+            

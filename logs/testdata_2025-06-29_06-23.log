@@ -1,0 +1,158 @@
+
+Available PDF field names (first run):
+  • Diagnosis
+  • CSA BP AP
+  • CSA NOI
+  • ICD9
+  • Restrictions
+  • Reset button
+  • Worker First Name
+  • Worker Middle Initial
+  • Worker Gender
+  • Worker Last Name
+  • Employer Area Code
+  • Employer Prefix
+  • Employer Phone Number
+  • Employer Address 1
+  • Employer Address 2
+  • Worker Address 1
+  • Worker Address 2
+  • Date Of Injury YYYY
+  • Date Of Injury MM
+  • Date Of Injury DD
+  • Date Of Service YYYY
+  • Date Of Service MM
+  • Date Of Service DD
+  • Date Of Birth YYYY
+  • Date Of Birth MM
+  • Date Of Birth DD
+  • Worker Contact Prefix
+  • Worker Contact Phone
+  • Who Rendered First Treatment
+  • PHN First Four Digits
+  • PHN Next Three Digits
+  • PHN Last Three Digits
+  • Regular Practitioner Yes
+  • Regular Practitioner No
+  • How Long Patient 0-6
+  • How Long Patient 7-12
+  • Prior Problems
+  • Disabled Date
+  • What Happened
+  • Medically Capable Yes
+  • Medically Capable No
+  • Estimated Time 0
+  • Estimated Time 1-6
+  • Estimated Time 7-13
+  • If Ready Rehab Yes WCP
+  • If Ready Rehab Yes Other
+  • Wish To Consult Yes
+  • Wish To Consult No
+  • Recovery Date
+  • Payee Number
+  • Practitioner Number
+  • Payee Name
+  • Practitioner Name
+  • Claim Number
+  • Worker Area Code
+  • Employers Name
+  • F8 Form
+  • F11 Form
+  • Estimated Time 14-20
+  • Estimated Time > 20
+  • Has The Worker Been Disabled Yes
+  • Has The Worker Been Disabled No
+  • How Long Patient > 12
+  • Now Ready For Rehab Yes
+  • Now Ready For Rehab No
+
+Total PDFs written: 100
+
+Detailed Field-Level Log (First Record Only)
+----------------------------------------------------------------------------------------------------------------------------------------
+PDF fieldname                     Type                    XMLpath                           Option  Value              PDF  XML  Error  
+----------------------------------------------------------------------------------------------------------------------------------------
+F8 Form                           radiobutton             P2D_FormType8                     1       1                  ✔    ✔    -      
+F11 Form                          radiobutton             P2D_FormType11                    0       0                  ✔    ✔    -      
+Date Of Service YYYY              textfield               Claim_DateOfService                                          ✔    ✔    -      
+Date Of Service MM                textfield               Claim_DateOfService                                          ✔    ✔    -      
+Date Of Service DD                textfield               Claim_DateOfService                                          ✔    ✔    -      
+Date Of Birth YYYY                textfield               Wrkr_DateOfBirth                                             ✔    ✔    -      
+Date Of Birth MM                  textfield               Wrkr_DateOfBirth                                             ✔    ✔    -      
+Date Of Birth DD                  textfield               Wrkr_DateOfBirth                                             ✔    ✔    -      
+Claim Number                      textfield               Claim_Number                                                 ✔    ✔    -      
+Employers Name                    textfield               Emp_EmployerAccountName                                      ✔    ✔    -      
+Worker Last Name                  textfield               Wrkr_LastName                                                ✔    ✔    -      
+Employer Area Code                textfield               Emp_PhoneAreaCode                                            ✔    ✔    -      
+Employer Prefix                   textfield               Emp_PhonePrefix                                              ✔    ✔    -      
+Employer Phone Number             textfield               Emp_PhoneNumber                                              ✔    ✔    -      
+Worker First Name                 textfield               Wrkr_FirstName                                               ✔    ✔    -      
+Worker Middle Initial             textfield               Wrkr_MiddleInitials                                          ✔    ✔    -      
+Worker Gender                     textfield               Wrkr_Gender                                                  ✔    ✔    -      
+Employer Address 1                textfield               Emp_AddressLine1                                             ✔    ✔    -      
+Worker Address 1                  textfield               Wrkr_AddressLine1                                            ✔    ✔    -      
+Employer Address 2                textfield               Emp_AddressLine2                                             ✔    ✔    -      
+Worker Address 2                  textfield               Wrkr_AddressLine2                                            ✔    ✔    -      
+Date Of Injury YYYY               textfield               Inj_IncidentFromDateTime                                     ✔    ✔    -      
+Date Of Injury MM                 textfield               Inj_IncidentFromDateTime                                     ✔    ✔    -      
+Date Of Injury DD                 textfield               Inj_IncidentFromDateTime                                     ✔    ✔    -      
+Worker Area Code                  textfield               Wrkr_AreaCode                                                ✔    ✔    -      
+Worker Contact Prefix             textfield               Wrkr_Number                                                  ✔    ✔    -      
+Worker Contact Phone              textfield               Wrkr_Extension                                               ✔    ✔    -      
+Who Rendered First Treatment      textfield               undefined                                                    ✔    ✖    -      
+PHN First Four Digits             textfield               Wrkr_PersonalHealthNumber                                    ✔    ✔    -      
+PHN Next Three Digits             textfield               Wrkr_PersonalHealthNumber                                    ✔    ✔    -      
+PHN Last Three Digits             textfield               Wrkr_PersonalHealthNumber                                    ✔    ✔    -      
+Regular Practitioner Yes          radiobutton             undefined                         0       Yes                ✔    ✖    -      
+Regular Practitioner No           radiobutton             undefined                         1       No                 ✔    ✖    -      
+How Long Patient 0-6              radiobutton             undefined                         0       0-6 months         ✔    ✖    -      
+How Long Patient 7-12             radiobutton             undefined                         1       7–12 months        ✔    ✖    -      
+How Long Patient > 12             radiobutton             undefined                         2       > 1 year           ✔    ✖    -      
+Prior Problems                    textfield               undefined                                                    ✔    ✖    -      
+Has The Worker Been Disabled Yes  radiobutton             Claim_LostTimeIndicator           0       Yes                ✔    ✔    -      
+Has The Worker Been Disabled No   radiobutton             Claim_LostTimeIndicator           1       No                 ✔    ✔    -      
+Disabled Date                     textfield               Rptm_PeriodStartDatetime                                     ✔    ✔    -      
+Diagnosis                         textfield               Inj_DiagnosisText                                            ✔    ✔    -      
+CSA BP AP                         textfield               undefined                                                    ✔    ✖    -      
+CSA NOI                           textfield               undefined                                                    ✔    ✖    -      
+ICD9                              textfield               undefined                                                    ✔    ✖    -      
+What Happened                     textfield               Claim_IncidentDescriptionText                                ✔    ✔    -      
+Medically Capable Yes             radiobutton             undefined                         0       Yes                ✔    ✖    -      
+Medically Capable No              radiobutton             undefined                         1       No                 ✔    ✖    -      
+Restrictions                      textfield               undefined                                                    ✔    ✖    -      
+Estimated Time 0                  radiobutton             Rptm_ReportedTimePeriodTypeCode   0       Currently at work  ✔    ✔    -      
+Estimated Time 1-6                radiobutton             Rptm_ReportedTimePeriodTypeCode   1       1–6 days           ✔    ✔    -      
+Estimated Time 7-13               radiobutton             Rptm_ReportedTimePeriodTypeCode   2       7–13 days          ✔    ✔    -      
+Estimated Time 14-20              radiobutton             Rptm_ReportedTimePeriodTypeCode   3       14–20 days         ✔    ✔    -      
+Estimated Time > 20               radiobutton             Rptm_ReportedTimePeriodTypeCode   4       > 20 days          ✔    ✔    -      
+Now Ready For Rehab Yes           radiobutton             undefined                         0       Yes                ✔    ✖    -      
+Now Ready For Rehab No            radiobutton             undefined                         1       No                 ✔    ✖    -      
+If Ready Rehab Yes WCP            radiobutton             undefined                         0       WCP                ✔    ✖    -      
+If Ready Rehab Yes Other          radiobutton             undefined                         1       Other              ✔    ✖    -      
+Wish To Consult Yes               radiobutton             Med_ConsultNurseAdvisorIndicator  0       Yes                ✔    ✔    -      
+Wish To Consult No                radiobutton             Med_ConsultNurseAdvisorIndicator  1       No                 ✔    ✔    -      
+Recovery Date                     textfield               P2D_MaximalRecoveryDate                                      ✔    ✔    -      
+Payee Number                      textfield               undefined                                                    ✔    ✖    -      
+Practitioner Number               textfield               Prvdr_PractitionerNumber                                     ✔    ✔    -      
+Payee Name                        textfield               undefined                                                    ✔    ✖    -      
+Practitioner Name                 textfield (multi-path)  Prvdr_FirstName, Prvdr_LastName                              ✔    ✖    -      
+----------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Testdata PDF/XML Summary
+Date: 2025-06-29
+Time: 06:23 AM
+--------------------------------------------------------------------------------
+Output
+Type            PDF     XML     Match   Miss    Failed
+Unknown:        0       0       0       0       0
+Checkbox:       0       0       0       0       0
+Radiobutton:    22      11      11      11      0
+Textfield:      41      33      33      8       0
+Signature:      0       0       0       0       0
+--------------------------------------------------------------------------------
+Files created
+Type            Total   Pop.    Unpop.  Failed
+/output/pdf/    100     100     0       0
+/output/xml/    100     100     0       0
+--------------------------------------------------------------------------------

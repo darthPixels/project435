@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: firstNames_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region first names by origin & gender.
+    • Feeds generateRandomData.js to fill <firstName> in workers.xml,
+      employers.xml, etc.
+  Generator:
+    • Name generator samples one <FirstName> matching chosen
+      ethnicity & gender.
+  Element:
+    • <FirstName gender="M|F" origin="English|French|Chinese|German|Italian|Indian|Ukrainian|Arab|Portuguese|Indigenous">
+        NameValue
+      </FirstName>
+-->
+<FirstNames>
+  <!-- English first names -->
+  <FirstName gender="F" origin="English">Olivia</FirstName>
+  <FirstName gender="F" origin="English">Emma</FirstName>
+  <FirstName gender="M" origin="English">Liam</FirstName>
+  <FirstName gender="M" origin="English">Noah</FirstName>
+  <FirstName gender="M" origin="English">Ethan</FirstName>
+  <FirstName gender="F" origin="English">Ava</FirstName>
+  <FirstName gender="M" origin="English">Mason</FirstName>
+  <FirstName gender="M" origin="English">Lucas</FirstName>
+  <FirstName gender="F" origin="English">Sophia</FirstName>
+  <FirstName gender="F" origin="English">Isabella</FirstName>
+  <FirstName gender="F" origin="English">Mia</FirstName>
+  <FirstName gender="F" origin="English">Charlotte</FirstName>
+  <FirstName gender="F" origin="English">Amelia</FirstName>
+  <FirstName gender="M" origin="English">Benjamin</FirstName>
+  <FirstName gender="M" origin="English">James</FirstName>
+  <FirstName gender="M" origin="English">Logan</FirstName>
+  <FirstName gender="M" origin="English">Henry</FirstName>
+  <FirstName gender="M" origin="English">Alexander</FirstName>
+  <FirstName gender="M" origin="English">Jacob</FirstName>
+  <FirstName gender="M" origin="English">Michael</FirstName>
+  <FirstName gender="M" origin="English">Daniel</FirstName>
+  <FirstName gender="M" origin="English">Matthew</FirstName>
+  <FirstName gender="M" origin="English">Joseph</FirstName>
+  <FirstName gender="M" origin="English">Samuel</FirstName>
+  <FirstName gender="M" origin="English">David</FirstName>
+  <FirstName gender="M" origin="English">Carter</FirstName>
+  <FirstName gender="M" origin="English">Owen</FirstName>
+  <FirstName gender="M" origin="English">Wyatt</FirstName>
+  <FirstName gender="M" origin="English">Jack</FirstName>
+  <FirstName gender="M" origin="English">Luke</FirstName>
+
+  <!-- French first names -->
+  <FirstName gender="F" origin="French">Émilie</FirstName>
+  <FirstName gender="F" origin="French">Sophie</FirstName>
+  <FirstName gender="M" origin="French">Gabriel</FirstName>
+  <FirstName gender="M" origin="French">Louis</FirstName>
+  <FirstName gender="M" origin="French">Alexandre</FirstName>
+  <FirstName gender="F" origin="French">Chloé</FirstName>
+  <FirstName gender="M" origin="French">Mathieu</FirstName>
+  <FirstName gender="F" origin="French">Juliette</FirstName>
+  <FirstName gender="M" origin="French">Olivier</FirstName>
+  <FirstName gender="F" origin="French">Camille</FirstName>
+  <FirstName gender="F" origin="French">Isabelle</FirstName>
+  <FirstName gender="M" origin="French">Maxime</FirstName>
+  <FirstName gender="F" origin="French">Lucie</FirstName>
+  <FirstName gender="M" origin="French">Antoine</FirstName>
+  <FirstName gender="F" origin="French">Mélanie</FirstName>
+  <FirstName gender="M" origin="French">Jean</FirstName>
+  <FirstName gender="F" origin="French">Claire</FirstName>
+  <FirstName gender="M" origin="French">Nicolas</FirstName>
+  <FirstName gender="F" origin="French">Amélie</FirstName>
+  <FirstName gender="M" origin="French">François</FirstName>
+  <FirstName gender="F" origin="French">Charlotte</FirstName>
+  <FirstName gender="M" origin="French">Hugo</FirstName>
+  <FirstName gender="F" origin="French">Manon</FirstName>
+  <FirstName gender="M" origin="French">Pierre</FirstName>
+  <FirstName gender="F" origin="French">Sarah</FirstName>
+
+  <!-- Chinese first names -->
+  <FirstName gender="M" origin="Chinese">Wei</FirstName>
+  <FirstName gender="F" origin="Chinese">Li</FirstName>
+  <FirstName gender="M" origin="Chinese">Huan</FirstName>
+  <FirstName gender="F" origin="Chinese">Mei</FirstName>
+  <FirstName gender="M" origin="Chinese">Jin</FirstName>
+  <FirstName gender="F" origin="Chinese">Min</FirstName>
+  <FirstName gender="M" origin="Chinese">Tao</FirstName>
+  <FirstName gender="F" origin="Chinese">Ling</FirstName>
+  <FirstName gender="F" origin="Chinese">Yan</FirstName>
+  <FirstName gender="M" origin="Chinese">Xiao</FirstName>
+  <FirstName gender="M" origin="Chinese">Cheng</FirstName>
+  <FirstName gender="F" origin="Chinese">Fang</FirstName>
+  <FirstName gender="M" origin="Chinese">Guo</FirstName>
+  <FirstName gender="M" origin="Chinese">Hao</FirstName>
+  <FirstName gender="F" origin="Chinese">Jie</FirstName>
+
+  <!-- German first names -->
+  <FirstName gender="F" origin="German">Anna</FirstName>
+  <FirstName gender="M" origin="German">Max</FirstName>
+  <FirstName gender="F" origin="German">Lena</FirstName>
+  <FirstName gender="M" origin="German">Felix</FirstName>
+  <FirstName gender="F" origin="German">Marie</FirstName>
+  <FirstName gender="M" origin="German">Paul</FirstName>
+  <FirstName gender="F" origin="German">Laura</FirstName>
+  <FirstName gender="M" origin="German">Leon</FirstName>
+  <FirstName gender="F" origin="German">Julia</FirstName>
+  <FirstName gender="M" origin="German">Tim</FirstName>
+
+  <!-- Italian first names -->
+  <FirstName gender="F" origin="Italian">Francesca</FirstName>
+  <FirstName gender="M" origin="Italian">Luca</FirstName>
+  <FirstName gender="F" origin="Italian">Giulia</FirstName>
+  <FirstName gender="M" origin="Italian">Marco</FirstName>
+  <FirstName gender="F" origin="Italian">Sara</FirstName>
+  <FirstName gender="M" origin="Italian">Matteo</FirstName>
+  <FirstName gender="F" origin="Italian">Alessia</FirstName>
+  <FirstName gender="M" origin="Italian">Davide</FirstName>
+  <FirstName gender="F" origin="Italian">Chiara</FirstName>
+  <FirstName gender="M" origin="Italian">Gabriele</FirstName>
+
+  <!-- Indian first names -->
+  <FirstName gender="M" origin="Indian">Aarav</FirstName>
+  <FirstName gender="F" origin="Indian">Diya</FirstName>
+  <FirstName gender="M" origin="Indian">Rohan</FirstName>
+  <FirstName gender="F" origin="Indian">Ananya</FirstName>
+  <FirstName gender="M" origin="Indian">Kabir</FirstName>
+  <FirstName gender="F" origin="Indian">Isha</FirstName>
+  <FirstName gender="M" origin="Indian">Arjun</FirstName>
+  <FirstName gender="F" origin="Indian">Neha</FirstName>
+  <FirstName gender="M" origin="Indian">Ved</FirstName>
+  <FirstName gender="F" origin="Indian">Pooja</FirstName>
+
+  <!-- Ukrainian first names -->
+  <FirstName gender="F" origin="Ukrainian">Oksana</FirstName>
+  <FirstName gender="M" origin="Ukrainian">Dmytro</FirstName>
+  <FirstName gender="F" origin="Ukrainian">Kateryna</FirstName>
+  <FirstName gender="M" origin="Ukrainian">Ivan</FirstName>
+  <FirstName gender="F" origin="Ukrainian">Natalia</FirstName>
+  <FirstName gender="M" origin="Ukrainian">Mykola</FirstName>
+  <FirstName gender="F" origin="Ukrainian">Olena</FirstName>
+  <FirstName gender="M" origin="Ukrainian">Serhiy</FirstName>
+  <FirstName gender="F" origin="Ukrainian">Svitlana</FirstName>
+  <FirstName gender="M" origin="Ukrainian">Andriy</FirstName>
+
+  <!-- Arab first names -->
+  <FirstName gender="F" origin="Arab">Layla</FirstName>
+  <FirstName gender="M" origin="Arab">Omar</FirstName>
+  <FirstName gender="F" origin="Arab">Fatima</FirstName>
+  <FirstName gender="M" origin="Arab">Youssef</FirstName>
+  <FirstName gender="F" origin="Arab">Maya</FirstName>
+  <FirstName gender="M" origin="Arab">Ali</FirstName>
+  <FirstName gender="F" origin="Arab">Amina</FirstName>
+  <FirstName gender="M" origin="Arab">Khaled</FirstName>
+  <FirstName gender="F" origin="Arab">Sara</FirstName>
+  <FirstName gender="M" origin="Arab">Hassan</FirstName>
+
+  <!-- Portuguese first names -->
+  <FirstName gender="M" origin="Portuguese">João</FirstName>
+  <FirstName gender="F" origin="Portuguese">Maria</FirstName>
+  <FirstName gender="M" origin="Portuguese">Pedro</FirstName>
+  <FirstName gender="F" origin="Portuguese">Ana</FirstName>
+  <FirstName gender="M" origin="Portuguese">Luis</FirstName>
+  <FirstName gender="F" origin="Portuguese">Sofia</FirstName>
+  <FirstName gender="M" origin="Portuguese">Miguel</FirstName>
+  <FirstName gender="F" origin="Portuguese">Beatriz</FirstName>
+  <FirstName gender="M" origin="Portuguese">Rafael</FirstName>
+  <FirstName gender="F" origin="Portuguese">Inês</FirstName>
+
+  <!-- Indigenous first names -->
+  <FirstName gender="F" origin="Indigenous">Aiyana</FirstName>
+  <FirstName gender="M" origin="Indigenous">Takoda</FirstName>
+  <FirstName gender="F" origin="Indigenous">Nayeli</FirstName>
+  <FirstName gender="F" origin="Indigenous">Waya</FirstName>
+  <FirstName gender="F" origin="Indigenous">Chenoa</FirstName>
+  <FirstName gender="F" origin="Indigenous">Kiona</FirstName>
+  <FirstName gender="F" origin="Indigenous">Tayanita</FirstName>
+  <FirstName gender="M" origin="Indigenous">Mika</FirstName>
+  <FirstName gender="F" origin="Indigenous">Onida</FirstName>
+  <FirstName gender="F" origin="Indigenous">Kaya</FirstName>
+</FirstNames>

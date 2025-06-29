@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClaimRecords>
+  <ClaimRecord id="0001">
+	<P2D_FormType8></P2D_FormType8>                    
+	<P2D_FormType11></P2D_FormType11>                   
+	<Claim_DateOfService></Claim_DateOfService>              
+	<Wrkr_DateOfBirth></Wrkr_DateOfBirth>                 
+	<Claim_Number></Claim_Number>                     
+	<Emp_EmployerAccountName></Emp_EmployerAccountName>          
+	<Wrkr_LastName></Wrkr_LastName>                    
+	<Emp_PhoneAreaCode></Emp_PhoneAreaCode>                
+	<Emp_PhonePrefix></Emp_PhonePrefix>                  
+	<Emp_PhoneNumber></Emp_PhoneNumber>                  
+	<Wrkr_FirstName></Wrkr_FirstName>                   
+	<Wrkr_MiddleInitials></Wrkr_MiddleInitials>              
+	<Wrkr_Gender></Wrkr_Gender>                      
+	<Emp_AddressLine1></Emp_AddressLine1>                 
+	<Wrkr_AddressLine1></Wrkr_AddressLine1>                
+	<Emp_AddressLine2></Emp_AddressLine2>                 
+	<Wrkr_AddressLine2></Wrkr_AddressLine2>                
+	<Inj_IncidentFromDateTime></Inj_IncidentFromDateTime>         
+	<Wrkr_AreaCode></Wrkr_AreaCode>                    
+	<Wrkr_Number></Wrkr_Number>                      
+	<Wrkr_Extension></Wrkr_Extension>                   
+	<Wrkr_PersonalHealthNumber></Wrkr_PersonalHealthNumber>        
+	<Claim_LostTimeIndicator></Claim_LostTimeIndicator>          
+	<Rptm_PeriodStartDatetime></Rptm_PeriodStartDatetime>         
+	<Inj_DiagnosisText></Inj_DiagnosisText>                
+	<Claim_IncidentDescriptionText></Claim_IncidentDescriptionText>    
+	<Rptm_ReportedTimePeriodTypeCode></Rptm_ReportedTimePeriodTypeCode>  
+	<Med_ConsultNurseAdvisorIndicator></Med_ConsultNurseAdvisorIndicator> 
+	<P2D_MaximalRecoveryDate></P2D_MaximalRecoveryDate>          
+	<Prvdr_PractitionerNumber></Prvdr_PractitionerNumber>         
+	<Prvdr_FirstName></Prvdr_FirstName>                  
+	<Prvdr_LastName></Prvdr_LastName>
+  </ClaimRecord>
+</ClaimRecords>

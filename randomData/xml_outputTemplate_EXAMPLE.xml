@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClaimRecords>
+  <ClaimRecord id="0001">
+	<P2D_FormType8>1</P2D_FormType8>                    
+	<P2D_FormType11>0</P2D_FormType11>                   
+	<Claim_DateOfService>2024-12-01</Claim_DateOfService>              
+	<Wrkr_DateOfBirth>1970-05-23</Wrkr_DateOfBirth>                 
+	<Claim_Number>87654321</Claim_Number>                     
+	<Emp_EmployerAccountName>987654321</Emp_EmployerAccountName>          
+	<Wrkr_LastName>Smith</Wrkr_LastName>                    
+	<Emp_PhoneAreaCode>250</Emp_PhoneAreaCode>                
+	<Emp_PhonePrefix>123</Emp_PhonePrefix>                  
+	<Emp_PhoneNumber>9544</Emp_PhoneNumber>                  
+	<Wrkr_FirstName>Larry</Wrkr_FirstName>                   
+	<Wrkr_MiddleInitials>S</Wrkr_MiddleInitials>              
+	<Wrkr_Gender>M</Wrkr_Gender>                      
+	<Emp_AddressLine1>111 Elm Street</Emp_AddressLine1>                 
+	<Wrkr_AddressLine1>211 Hickory Road</Wrkr_AddressLine1>                
+	<Emp_AddressLine2>Victoria BC V8W 1P6</Emp_AddressLine2>                 
+	<Wrkr_AddressLine2>Victoria BC V8W 1P6</Wrkr_AddressLine2>                
+	<Inj_IncidentFromDateTime>2024-12-03</Inj_IncidentFromDateTime>         
+	<Wrkr_AreaCode>250</Wrkr_AreaCode>                    
+	<Wrkr_Number>334</Wrkr_Number>                      
+	<Wrkr_Extension>7766</Wrkr_Extension>                   
+	<Wrkr_PersonalHealthNumber>0987654321</Wrkr_PersonalHealthNumber>        
+	<Claim_LostTimeIndicator>No</Claim_LostTimeIndicator>          
+	<Rptm_PeriodStartDatetime>2024-12-01</Rptm_PeriodStartDatetime>         
+	<Inj_DiagnosisText>Laceration, fracture</Inj_DiagnosisText>                
+	<Claim_IncidentDescriptionText>A young worker was removing a shear head from a slitter machine (a machine that cuts large rolls into smaller rolls). The shear head (weighing 125 pounds) was located on one side of the machine, about 4 feet from the ground. The worker used both hands to grab and pull the shear head off the machine. The shear head struck the worker as it fell to the ground.</Claim_IncidentDescriptionText>    
+	<Rptm_ReportedTimePeriodTypeCode>3</Rptm_ReportedTimePeriodTypeCode>  
+	<Med_ConsultNurseAdvisorIndicator>1</Med_ConsultNurseAdvisorIndicator> 
+	<P2D_MaximalRecoveryDate>2025-01-12</P2D_MaximalRecoveryDate>          
+	<Prvdr_PractitionerNumber>54321</Prvdr_PractitionerNumber>         
+	<Prvdr_FirstName>Dr. Lars</Prvdr_FirstName>                  
+	<Prvdr_LastName>Fjellhammer</Prvdr_LastName>
+  </ClaimRecord>
+</ClaimRecords>

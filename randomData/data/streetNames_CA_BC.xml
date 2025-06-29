@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: streetNames_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region street names (no numbers).
+    • Feeds generateRandomData.js to build <addressStreet> in workers.xml,
+      employers.xml, etc.
+  Generator:
+    • Address generator picks one <Street>, prepends a randomized
+      house number.
+  Element:
+    • <Street>StreetNameValue</Street>
+-->
+<StreetNames>
+  <!-- 1–30: generic/tree-based -->
+  <Street>Maple Street</Street>
+  <Street>Oak Avenue</Street>
+  <Street>Pine Road</Street>
+  <Street>Cedar Boulevard</Street>
+  <Street>Spruce Lane</Street>
+  <Street>Birch Way</Street>
+  <Street>Elm Street</Street>
+  <Street>Fir Road</Street>
+  <Street>Larch Drive</Street>
+  <Street>Hemlock Court</Street>
+  <Street>Willow Crescent</Street>
+  <Street>Poplar Street</Street>
+  <Street>Aspen Alley</Street>
+  <Street>Chestnut Drive</Street>
+  <Street>Hawthorn Lane</Street>
+  <Street>Redwood Terrace</Street>
+  <Street>Sequoia Street</Street>
+  <Street>Sycamore Court</Street>
+  <Street>Dogwood Road</Street>
+  <Street>Magnolia Drive</Street>
+  <Street>Alder Street</Street>
+  <Street>Beech Avenue</Street>
+  <Street>Cottonwood Lane</Street>
+  <Street>Douglas Street</Street>
+  <Street>Hickory Road</Street>
+  <Street>Juniper Way</Street>
+  <Street>Mulberry Lane</Street>
+  <Street>Sassafras Street</Street>
+  <Street>Walnut Avenue</Street>
+  <Street>Yew Drive</Street>
+
+  <!-- 31–60: Vancouver core -->
+  <Street>Robson Street</Street>
+  <Street>Granville Street</Street>
+  <Street>Burrard Street</Street>
+  <Street>Cambie Street</Street>
+  <Street>Hastings Street</Street>
+  <Street>Georgia Street</Street>
+  <Street>Seymour Street</Street>
+  <Street>Denman Street</Street>
+  <Street>Davie Street</Street>
+  <Street>Beatty Street</Street>
+  <Street>Homer Street</Street>
+  <Street>Pender Street</Street>
+  <Street>Main Street</Street>
+  <Street>Broadway</Street>
+  <Street>Kingsway</Street>
+  <Street>Commercial Drive</Street>
+  <Street>Marine Drive</Street>
+  <Street>Fraser Street</Street>
+  <Street>Alberni Street</Street>
+  <Street>Beach Avenue</Street>
+  <Street>Boundary Road</Street>
+  <Street>Cornwall Avenue</Street>
+  <Street>Dunbar Street</Street>
+  <Street>Oak Street</Street>
+  <Street>Knight Street</Street>
+  <Street>Victoria Drive</Street>
+  <Street>Government Street</Street>
+  <Street>Fort Street</Street>
+  <Street>Yates Street</Street>
+  <Street>Blanshard Street</Street>
+
+  <!-- 61–80: Victoria & surrounds -->
+  <Street>Wharf Street</Street>
+  <Street>Cook Street</Street>
+  <Street>Hillside Avenue</Street>
+  <Street>Oak Bay Avenue</Street>
+  <Street>Scott Road</Street>
+  <Street>River Road</Street>
+  <Street>Mountain View Road</Street>
+  <Street>Park Lane</Street>
+  <Street>Station Road</Street>
+  <Street>School Street</Street>
+  <Street>Queen Street</Street>
+  <Street>King Street</Street>
+  <Street>Prince Avenue</Street>
+  <Street>Princess Street</Street>
+  <Street>Elmwood Street</Street>
+  <Street>Forest Drive</Street>
+  <Street>Lakeview Crescent</Street>
+  <Street>Meadow Lane</Street>
+  <Street>Pinehurst Road</Street>
+  <Street>Valley Drive</Street>
+
+  <!-- 81–100: broader BC -->
+  <Street>Ridge Road</Street>
+  <Street>Bridle Path</Street>
+  <Street>Orchard Drive</Street>
+  <Street>Vineyard Avenue</Street>
+  <Street>Heritage Boulevard</Street>
+  <Street>Centennial Street</Street>
+  <Street>Pioneer Road</Street>
+  <Street>Sunset Avenue</Street>
+  <Street>Sunrise Boulevard</Street>
+  <Street>Evergreen Terrace</Street>
+  <Street>Cedarwood Drive</Street>
+  <Street>Fairview Road</Street>
+  <Street>Westwood Lane</Street>
+  <Street>Eastwood Drive</Street>
+  <Street>Eastview Avenue</Street>
+  <Street>Southridge Road</Street>
+  <Street>Northview Drive</Street>
+  <Street>Highland Avenue</Street>
+  <Street>Maple Lane</Street>
+  <Street>Redwood Road</Street>
+</StreetNames>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: practitioners_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region healthcare practitioners (individuals & clinics).
+    • Feeds generateRandomData.js to fill <practitionerName> in workers.xml,
+      employers.xml, etc.
+  Generator:
+    • Practitioner generator samples one <Practitioner> per record.
+  Note:
+    • Includes diverse origins (English, French, Chinese, Indian, Indigenous,
+      Arab, Ukrainian, Portuguese, Hungarian, Persian) reflecting Pathways listings. :contentReference[oaicite:1]{index=1}
+-->
+<Practitioners>
+  <!-- Individual practitioners (Dr. names) -->
+  <Practitioner id="P0001">Dr. Liam Smith</Practitioner>
+  <Practitioner id="P0002">Dr. Emily Johnson</Practitioner>
+  <Practitioner id="P0003">Dr. Mason Brown</Practitioner>
+  <Practitioner id="P0004">Dr. Charlotte Davis</Practitioner>
+  <Practitioner id="P0005">Dr. Henry Wilson</Practitioner>
+
+  <Practitioner id="P0006">Dr. Émilie Roy</Practitioner>
+  <Practitioner id="P0007">Dr. Gabriel Tremblay</Practitioner>
+  <Practitioner id="P0008">Dr. Chloé Gagnon</Practitioner>
+  <Practitioner id="P0009">Dr. Alexandre Bouchard</Practitioner>
+  <Practitioner id="P0010">Dr. Juliette Morin</Practitioner>
+
+  <Practitioner id="P0011">Dr. Wei Zhang</Practitioner>
+  <Practitioner id="P0012">Dr. Li Chen</Practitioner>
+  <Practitioner id="P0013">Dr. Ling Wu</Practitioner>
+  <Practitioner id="P0014">Dr. Tao Liu</Practitioner>
+  <Practitioner id="P0015">Dr. Mei Wong</Practitioner>
+
+  <Practitioner id="P0016">Dr. Aarav Patel</Practitioner>
+  <Practitioner id="P0017">Dr. Maya Sharma</Practitioner>
+  <Practitioner id="P0018">Dr. Rajiv Gupta</Practitioner>
+  <Practitioner id="P0019">Dr. Ananya Singh</Practitioner>
+  <Practitioner id="P0020">Dr. Kabir Mehta</Practitioner>
+
+  <Practitioner id="P0021">Dr. Aiyana Whitefeather</Practitioner>
+  <Practitioner id="P0022">Dr. Takoda Runningbear</Practitioner>
+  <Practitioner id="P0023">Dr. Chenoa Blackhawk</Practitioner>
+  <Practitioner id="P0024">Dr. Mika Twofeathers</Practitioner>
+  <Practitioner id="P0025">Dr. Nayeli Ironhawk</Practitioner>
+
+  <Practitioner id="P0026">Dr. Layla Haddad</Practitioner>
+  <Practitioner id="P0027">Dr. Omar Khalil</Practitioner>
+  <Practitioner id="P0028">Dr. Fatima Nassar</Practitioner>
+  <Practitioner id="P0029">Dr. Ali Hasan</Practitioner>
+  <Practitioner id="P0030">Dr. Yasmine Al-Masri</Practitioner>
+
+  <Practitioner id="P0031">Dr. Oksana Kovalenko</Practitioner>
+  <Practitioner id="P0032">Dr. Dmytro Shevchenko</Practitioner>
+  <Practitioner id="P0033">Dr. Kateryna Melnyk</Practitioner>
+  <Practitioner id="P0034">Dr. Mykola Boyko</Practitioner>
+  <Practitioner id="P0035">Dr. Serhiy Kravchenko</Practitioner>
+
+  <Practitioner id="P0036">Dr. João Silva</Practitioner>
+  <Practitioner id="P0037">Dr. Maria Santos</Practitioner>
+  <Practitioner id="P0038">Dr. Pedro Ferreira</Practitioner>
+  <Practitioner id="P0039">Dr. Ana Oliveira</Practitioner>
+  <Practitioner id="P0040">Dr. Luís Ribeiro</Practitioner>
+
+  <Practitioner id="P0041">Dr. Balint Budai</Practitioner>
+  <Practitioner id="P0042">Dr. Marika Kovacs</Practitioner>
+  <Practitioner id="P0043">Dr. Istvan Nagy</Practitioner>
+  <Practitioner id="P0044">Dr. Eszter Horvath</Practitioner>
+  <Practitioner id="P0045">Dr. Zoltan Szabo</Practitioner>
+
+  <Practitioner id="P0046">Dr. Parisa Gharaei</Practitioner>
+  <Practitioner id="P0047">Dr. Videsh Kapoor</Practitioner>
+  <Practitioner id="P0048">Dr. Nasha Jeffries-Chung</Practitioner>
+  <Practitioner id="P0049">Dr. Kuljit Sajjan</Practitioner>
+  <Practitioner id="P0050">Dr. Shelliza Mohammed</Practitioner>
+
+  <!-- Clinic & center names -->
+  <Practitioner id="P0051">Pacific Family Medical Clinic</Practitioner>
+  <Practitioner id="P0052">Downtown Family Practice</Practitioner>
+  <Practitioner id="P0053">West End Medical Center</Practitioner>
+  <Practitioner id="P0054">Coal Harbour Health Clinic</Practitioner>
+  <Practitioner id="P0055">Yaletown Wellness Centre</Practitioner>
+  <Practitioner id="P0056">Gastown Family Health</Practitioner>
+  <Practitioner id="P0057">Fairview Community Clinic</Practitioner>
+  <Practitioner id="P0058">Broadway Health Services</Practitioner>
+  <Practitioner id="P0059">Granville Street Medical Centre</Practitioner>
+  <Practitioner id="P0060">Mount Pleasant Medical Clinic</Practitioner>
+
+  <Practitioner id="P0061">North Shore Family Practice</Practitioner>
+  <Practitioner id="P0062">Capilano Medical Clinic</Practitioner>
+  <Practitioner id="P0063">Lonsdale Health Centre</Practitioner>
+  <Practitioner id="P0064">Deep Cove Health Clinic</Practitioner>
+  <Practitioner id="P0065">Edgemont Village Family Health</Practitioner>
+  <Practitioner id="P0066">Ambleside Medical Group</Practitioner>
+  <Practitioner id="P0067">Parkgate Health Clinic</Practitioner>
+  <Practitioner id="P0068">Mahlehsmos Medical Centre</Practitioner>
+  <Practitioner id="P0069">Lighthouse Park Medical Clinic</Practitioner>
+  <Practitioner id="P0070">Lions Bay Health Centre</Practitioner>
+
+  <Practitioner id="P0071">Commercial Drive Medical Clinic</Practitioner>
+  <Practitioner id="P0072">Fraser Street Health Centre</Practitioner>
+  <Practitioner id="P0073">Killarney Family Health Clinic</Practitioner>
+  <Practitioner id="P0074">Renfrew Medical Centre</Practitioner>
+  <Practitioner id="P0075">Collingwood Community Health</Practitioner>
+  <Practitioner id="P0076">Hastings Sunrise Wellness Clinic</Practitioner>
+  <Practitioner id="P0077">Burnaby Central Medical Clinic</Practitioner>
+  <Practitioner id="P0078">Metrotown Health Practice</Practitioner>
+  <Practitioner id="P0079">Brentwood Medical Centre</Practitioner>
+  <Practitioner id="P0080">Edmonds Family Clinic</Practitioner>
+
+  <Practitioner id="P0081">Victoria Family Practice</Practitioner>
+  <Practitioner id="P0082">Esquimalt Medical Clinic</Practitioner>
+  <Practitioner id="P0083">Langford Community Health Centre</Practitioner>
+  <Practitioner id="P0084">Nanaimo Wellness Clinic</Practitioner>
+  <Practitioner id="P0085">Sidney Health Centre</Practitioner>
+  <Practitioner id="P0086">Courtenay Community Medical Centre</Practitioner>
+  <Practitioner id="P0087">Duncan Family Practice</Practitioner>
+  <Practitioner id="P0088">Parksville Health Services</Practitioner>
+  <Practitioner id="P0089">Campbell River Medical Clinic</Practitioner>
+  <Practitioner id="P0090">Tofino Family Health Clinic</Practitioner>
+
+  <Practitioner id="P0091">Kelowna Family Clinic</Practitioner>
+  <Practitioner id="P0092">Penticton Medical Centre</Practitioner>
+  <Practitioner id="P0093">Kamloops Wellness Centre</Practitioner>
+  <Practitioner id="P0094">Prince George Family Practice</Practitioner>
+  <Practitioner id="P0095">Vernon Medical Services</Practitioner>
+  <Practitioner id="P0096">Nelson Family Health Clinic</Practitioner>
+  <Practitioner id="P0097">Cranbrook Community Clinic</Practitioner>
+  <Practitioner id="P0098">Trail Medical Group</Practitioner>
+  <Practitioner id="P0099">Merritt Family Health Centre</Practitioner>
+  <Practitioner id="P0100">Squamish General Practice</Practitioner>
+</Practitioners>

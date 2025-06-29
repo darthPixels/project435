@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  File: hospitals_CA_BC.xml
+  Purpose:
+    • Atomic lookup of BC‐region hospitals with city.
+    • Feeds generateRandomData.js to fill <hospitalName> in workers.xml,
+      employers.xml, etc., and link by city to locations_CA_BC.xml.
+  Generator:
+    • Hospital generator samples one <Hospital> and uses its
+      city attribute to match worker residence area.
+  Source:
+    • “List of hospitals in British Columbia” (Wikipedia) :contentReference[oaicite:0]{index=0}
+  Element:
+    • <Hospital id="Hxxxx" city="CityName">Hospital Name</Hospital>
+-->
+<Hospitals>
+  <!-- Fraser Health (13) -->
+  <Hospital id="H0001" city="Abbotsford">Abbotsford Regional Hospital and Cancer Centre</Hospital>
+  <Hospital id="H0002" city="Burnaby">Burnaby General Hospital</Hospital>
+  <Hospital id="H0003" city="Chilliwack">Chilliwack General Hospital</Hospital>
+  <Hospital id="H0004" city="Delta">Delta Hospital</Hospital>
+  <Hospital id="H0005" city="Port Moody">Eagle Ridge Hospital</Hospital>
+  <Hospital id="H0006" city="Hope">Fraser Canyon Hospital</Hospital>
+  <Hospital id="H0007" city="Surrey">Jim Pattison Outpatient Care and Surgery Centre</Hospital>
+  <Hospital id="H0008" city="Langley">Langley Memorial Hospital</Hospital>
+  <Hospital id="H0009" city="Mission">Mission Memorial Hospital</Hospital>
+  <Hospital id="H0010" city="White Rock">Peace Arch Hospital</Hospital>
+  <Hospital id="H0011" city="Maple Ridge">Ridge Meadows Hospital</Hospital>
+  <Hospital id="H0012" city="New Westminster">Royal Columbian Hospital</Hospital>
+  <Hospital id="H0013" city="Surrey">Surrey Memorial Hospital</Hospital>
+
+  <!-- Interior Health (21 active) -->
+  <Hospital id="H0014" city="100 Mile House">100 Mile District General Hospital</Hospital>
+  <Hospital id="H0015" city="Nakusp">Arrow Lakes Hospital</Hospital>
+  <Hospital id="H0016" city="Ashcroft">Ashcroft and District Hospital</Hospital>
+  <Hospital id="H0017" city="Grand Forks">Boundary Hospital</Hospital>
+  <Hospital id="H0018" city="Williams Lake">Cariboo Memorial Hospital</Hospital>
+  <Hospital id="H0019" city="Creston">Creston Valley Hospital & Health Centre</Hospital>
+  <Hospital id="H0020" city="Clearwater">Dr. Helmcken Memorial Hospital</Hospital>
+  <Hospital id="H0021" city="Cranbrook">East Kootenay Regional Hospital</Hospital>
+  <Hospital id="H0022" city="Fernie">Elk Valley Hospital</Hospital>
+  <Hospital id="H0023" city="Golden">Golden and District General Hospital</Hospital>
+  <Hospital id="H0024" city="Invermere">Invermere and District Hospital</Hospital>
+  <Hospital id="H0025" city="Kelowna">Kelowna General Hospital</Hospital>
+  <Hospital id="H0026" city="Trail">Kootenay Boundary Regional Hospital</Hospital>
+  <Hospital id="H0027" city="Nelson">Kootenay Lake Hospital</Hospital>
+  <Hospital id="H0028" city="Lillooet">Lillooet Hospital & Health Centre</Hospital>
+  <Hospital id="H0029" city="Merritt">Nicola Valley Hospital and Health Centre</Hospital>
+  <Hospital id="H0030" city="Penticton">Penticton Regional Hospital</Hospital>
+  <Hospital id="H0031" city="Princeton">Princeton General Hospital</Hospital>
+  <Hospital id="H0032" city="Revelstoke">Queen Victoria Hospital</Hospital>
+  <Hospital id="H0033" city="Kamloops">Royal Inland Hospital</Hospital>
+  <Hospital id="H0034" city="Salmon Arm">Shuswap Lake General Hospital</Hospital>
+  <Hospital id="H0035" city="Oliver">South Okanagan General Hospital</Hospital>
+  <Hospital id="H0036" city="Vernon">Vernon Jubilee Hospital</Hospital>
+
+  <!-- Island Health (12) -->
+  <Hospital id="H0037" city="Duncan">Cowichan District Hospital</Hospital>
+  <Hospital id="H0038" city="Saltspring Island">Lady Minto Gulf Islands Hospital</Hospital>
+  <Hospital id="H0039" city="Nanaimo">Nanaimo Regional General Hospital</Hospital>
+  <Hospital id="H0040" city="Campbell River">North Island Hospital Campbell River & District</Hospital>
+  <Hospital id="H0041" city="Courtenay">North Island Hospital Comox Valley</Hospital>
+  <Hospital id="H0042" city="Port Hardy">Port Hardy Hospital</Hospital>
+  <Hospital id="H0043" city="Port McNeill">Port McNeill Hospital</Hospital>
+  <Hospital id="H0044" city="Victoria">Royal Jubilee Hospital</Hospital>
+  <Hospital id="H0045" city="Saanichton">Saanich Peninsula Hospital</Hospital>
+  <Hospital id="H0046" city="Tofino">Tofino General Hospital</Hospital>
+  <Hospital id="H0047" city="Victoria">Victoria General Hospital</Hospital>
+  <Hospital id="H0048" city="Port Alberni">West Coast General Hospital</Hospital>
+
+  <!-- Northern Health (18) -->
+  <Hospital id="H0049" city="Smithers">Bulkley Valley District Hospital</Hospital>
+  <Hospital id="H0050" city="Chetwynd">Chetwynd General Hospital</Hospital>
+  <Hospital id="H0051" city="Dawson Creek">Dawson Creek and District Hospital</Hospital>
+  <Hospital id="H0052" city="Fort Nelson">Fort Nelson General Hospital</Hospital>
+  <Hospital id="H0053" city="Fort St. John">Fort St. John General Hospital</Hospital>
+  <Hospital id="H0054" city="Quesnel">G.R. Baker Memorial Hospital</Hospital>
+  <Hospital id="H0055" city="Daajing Giids">Haida Gwaii Hospital - Xaayda Gwaay Ngaaysdll Naay</Hospital>
+  <Hospital id="H0056" city="Kitimat">Kitimat General Hospital</Hospital>
+  <Hospital id="H0057" city="Terrace">Ksyen Regional Hospital</Hospital>
+  <Hospital id="H0058" city="Burns Lake">Lakes District Hospital and Health Centre</Hospital>
+  <Hospital id="H0059" city="Mackenzie">Mackenzie and District Hospital</Hospital>
+  <Hospital id="H0060" city="McBride">McBride and District Hospital</Hospital>
+  <Hospital id="H0061" city="Masset">Northern Haida Gwaii Hospital and Health Centre</Hospital>
+  <Hospital id="H0062" city="Prince Rupert">Prince Rupert Regional Hospital</Hospital>
+  <Hospital id="H0063" city="Vanderhoof">St. John Hospital</Hospital>
+  <Hospital id="H0064" city="Fort St. James">Stuart Lake General Hospital</Hospital>
+  <Hospital id="H0065" city="Prince George">University Hospital of Northern British Columbia</Hospital>
+  <Hospital id="H0066" city="Hazelton">Wrinch Memorial Hospital</Hospital>
+
+  <!-- Vancouver Coastal Health (9) -->
+  <Hospital id="H0067" city="Bella Coola">Bella Coola General Hospital</Hospital>
+  <Hospital id="H0068" city="North Vancouver">Lions Gate Hospital</Hospital>
+  <Hospital id="H0069" city="Bella Bella">ƛ̓uxválásu̓ilas Heiltsuk Hospital</Hospital>
+  <Hospital id="H0070" city="Powell River">qathet General Hospital</Hospital>
+  <Hospital id="H0071" city="Richmond">Richmond Hospital</Hospital>
+  <Hospital id="H0072" city="Sechelt">Sechelt | shíshálh Hospital</Hospital>
+  <Hospital id="H0073" city="Squamish">Squamish General Hospital</Hospital>
+  <Hospital id="H0074" city="Vancouver">UBC Hospital</Hospital>
+  <Hospital id="H0075" city="Vancouver">Vancouver General Hospital</Hospital>
+
+  <!-- Provincial Health Services Authority (4) -->
+  <Hospital id="H0076" city="Vancouver">B.C. Women's Hospital & Health Centre</Hospital>
+  <Hospital id="H0077" city="Vancouver">BC Cancer Agency</Hospital>
+  <Hospital id="H0078" city="Vancouver">British Columbia's Children's Hospital</Hospital>
+  <Hospital id="H0079" city="Coquitlam">Riverview Hospital</Hospital>
+
+  <!-- Religious affiliation & Other (4) -->
+  <Hospital id="H0080" city="Vancouver">Mount Saint Joseph Hospital</Hospital>
+  <Hospital id="H0081" city="Vancouver">St. Paul's Hospital</Hospital>
+  <Hospital id="H0082" city="Abbotsford">Menno Hospital</Hospital>
+  <Hospital id="H0083" city="Nelson">Mount St. Francis Hospital</Hospital>
+</Hospitals>
